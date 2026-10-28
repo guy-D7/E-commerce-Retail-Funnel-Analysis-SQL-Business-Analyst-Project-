@@ -1,0 +1,19 @@
+campaign_id,campaign_name,channel,objective,start_date,end_date,audience_type,attribution_window_days
+CAM000001,Email_Campaign_01,Email,Awareness,2025-11-15,2027-05-24,Retargeting,1
+CAM000002,Influencer_Campaign_02,Influencer,Acquisition,2025-05-11,2026-08-11,Prospecting,7
+CAM000003,Paid_Social_Campaign_03,Paid Social,Retention,2025-01-28,2027-01-09,Prospecting,1
+CAM000004,Influencer_Campaign_04,Influencer,Retention,2025-12-06,2027-07-26,Lookalike,1
+CAM000005,Paid_Search_Campaign_05,Paid Search,Retention,2026-03-21,2027-08-11,Lapsed Customers,7
+CAM000006,Influencer_Campaign_06,Influencer,Acquisition,2025-06-11,2027-01-19,Prospecting,7
+CAM000007,Paid_Social_Campaign_07,Paid Social,Awareness,2025-10-15,2027-09-02,Prospecting,1
+CAM000008,Paid_Social_Campaign_08,Paid Social,Retention,2025-06-20,2027-01-21,Lapsed Customers,7
+CAM000009,Paid_Search_Campaign_09,Paid Search,Retention,2025-12-17,2026-11-12,Lookalike,7
+CAM000010,Paid_Social_Campaign_10,Paid Social,Retention,2026-02-20,2026-06-16,Lookalike,14
+CAM000011,Paid_Search_Campaign_11,Paid Search,Retention,2025-04-26,2026-08-01,Lookalike,14
+CAM000012,Display_Campaign_12,Display,Retargeting,2025-02-14,2027-05-24,Lapsed Customers,30
+CAM000013,Display_Campaign_13,Display,Retargeting,2025-08-02,2026-09-16,Retargeting,14
+CAM000014,Affiliate_Campaign_14,Affiliate,Retention,2025-08-18,2027-02-17,Retargeting,7
+CAM000015,Display_Campaign_15,Display,Retargeting,2025-10-25,2027-02-17,Retargeting,7
+CAM000016,Affiliate_Campaign_16,Affiliate,Retargeting,2025-08-09,2027-08-24,Retargeting,30
+CAM000017,Paid_Social_Campaign_17,Paid Social,Retention,2025-02-04,2027-02-25,Prospecting,7
+CAM000018,Affiliate_Campaign_18,Affiliate,Retargeting,2026-01-08,2026-05-31,Lookalike,14

@@ -1,0 +1,701 @@
+customer_id,first_name,last_name,email,signup_date,city,state,age_band,acquisition_source,loyalty_tier,marketing_consent
+C000001,Kavya,Iyer,customer0001@example.com,2026-07-09,Bengaluru,Karnataka,25-34,Email,Standard,True
+C000002,Ira,Roy,customer0002@example.com,2026-09-24,Kolkata,West Bengal,25-34,Direct,Standard,True
+C000003,Nisha,Sharma,customer0003@example.com,2026-06-21,Delhi,Delhi,25-34,Affiliate,Standard,False
+C000004,Saanvi,Singh,customer0004@example.com,2026-06-03,Jamshedpur,Jharkhand,25-34,Affiliate,Standard,False
+C000005,Aditya,Pillai,customer0005@example.com,2024-08-15,Jaipur,Rajasthan,45-54,Paid Search,Silver,False
+C000006,Aditya,Mehta,customer0006@example.com,2024-01-25,Hyderabad,Telangana,35-44,Paid Search,Standard,False
+C000007,Dev,Mehta,customer0007@example.com,2025-10-18,Chennai,Tamil Nadu,55+,Paid Search,Standard,False
+C000008,Samar,Singh,customer0008@example.com,2024-07-01,Pune,Maharashtra,18-24,Organic Search,Standard,False
+C000009,Ira,Nair,customer0009@example.com,2025-03-22,Chennai,Tamil Nadu,18-24,Paid Search,Standard,True
+C000010,Aarav,Nair,customer0010@example.com,2025-03-22,Kochi,Kerala,55+,Email,Gold,False
+C000011,Nisha,Patel,customer0011@example.com,2025-01-07,Hyderabad,Telangana,35-44,Email,Silver,True
+C000012,Aditi,Gupta,customer0012@example.com,2025-06-03,Pune,Maharashtra,45-54,Paid Search,Silver,True
+C000013,Arjun,Gupta,customer0013@example.com,2025-03-06,Hyderabad,Telangana,25-34,Paid Social,Standard,True
+C000014,Aditi,Iyer,customer0014@example.com,2024-11-07,Bengaluru,Karnataka,45-54,Affiliate,Standard,True
+C000015,Aditya,Nair,customer0015@example.com,2025-03-28,Jaipur,Rajasthan,45-54,Direct,Gold,False
+C000016,Aditi,Nair,customer0016@example.com,2024-03-27,Jamshedpur,Jharkhand,55+,Paid Search,Silver,False
+C000017,Saanvi,Verma,customer0017@example.com,2024-11-13,Jamshedpur,Jharkhand,25-34,Organic Search,Standard,False
+C000018,Ishaan,Khan,customer0018@example.com,2026-05-20,Lucknow,Uttar Pradesh,45-54,Direct,Standard,True
+C000019,Arjun,Iyer,customer0019@example.com,2025-05-21,Kolkata,West Bengal,25-34,Email,Standard,False
+C000020,Nisha,Iyer,customer0020@example.com,2026-03-08,Mumbai,Maharashtra,25-34,Direct,Silver,True
+C000021,Ananya,Khan,customer0021@example.com,2024-09-12,Ahmedabad,Gujarat,25-34,Direct,Silver,False
+C000022,Reyansh,Joshi,customer0022@example.com,2024-11-20,Lucknow,Uttar Pradesh,55+,Paid Social,Gold,True
+C000023,Tara,Khan,customer0023@example.com,2026-01-31,Delhi,Delhi,35-44,Affiliate,Silver,True
+C000024,Saanvi,Singh,customer0024@example.com,2025-05-11,Ahmedabad,Gujarat,45-54,Organic Search,Standard,True
+C000025,Priya,Patel,customer0025@example.com,2026-07-03,Chennai,Tamil Nadu,25-34,Organic Search,Standard,True
+C000026,Nisha,Mehta,customer0026@example.com,2024-03-06,Hyderabad,Telangana,35-44,Paid Social,Standard,True
+C000027,Samar,Roy,customer0027@example.com,2025-02-02,Kolkata,West Bengal,18-24,Direct,Silver,True
+C000028,Kavya,Singh,customer0028@example.com,2026-08-23,Bengaluru,Karnataka,45-54,Direct,Gold,True
+C000029,Priya,Verma,customer0029@example.com,2026-01-22,Kochi,Kerala,55+,Direct,Standard,True
+C000030,Arjun,Das,customer0030@example.com,2024-01-30,Jaipur,Rajasthan,45-54,Affiliate,Gold,False
+C000031,Aarav,Bose,customer0031@example.com,2025-06-30,Lucknow,Uttar Pradesh,45-54,Paid Social,Silver,True
+C000032,Reyansh,Reddy,customer0032@example.com,2024-05-18,Kolkata,West Bengal,18-24,Paid Search,Standard,True
+C000033,Arjun,Singh,customer0033@example.com,2026-02-18,Chennai,Tamil Nadu,45-54,Paid Search,Standard,True
+C000034,Kavya,Iyer,customer0034@example.com,2024-02-23,Ahmedabad,Gujarat,18-24,Affiliate,Silver,False
+C000035,Aarav,Joshi,customer0035@example.com,2024-07-23,Hyderabad,Telangana,25-34,Paid Search,Standard,True
+C000036,Kabir,Verma,customer0036@example.com,2025-04-21,Hyderabad,Telangana,35-44,Organic Search,Standard,False
+C000037,Meera,Singh,customer0037@example.com,2026-03-07,Mumbai,Maharashtra,18-24,Paid Social,Gold,True
+C000038,Aditya,Patel,customer0038@example.com,2025-02-10,Kolkata,West Bengal,55+,Email,Silver,True
+C000039,Ira,Verma,customer0039@example.com,2026-05-20,Pune,Maharashtra,18-24,Direct,Standard,True
+C000040,Kavya,Patel,customer0040@example.com,2025-03-14,Ahmedabad,Gujarat,55+,Email,Standard,True
+C000041,Nisha,Das,customer0041@example.com,2024-04-18,Jaipur,Rajasthan,45-54,Email,Standard,False
+C000042,Ira,Verma,customer0042@example.com,2024-10-03,Jamshedpur,Jharkhand,55+,Affiliate,Standard,False
+C000043,Rohan,Pillai,customer0043@example.com,2024-10-01,Lucknow,Uttar Pradesh,25-34,Direct,Standard,False
+C000044,Reyansh,Joshi,customer0044@example.com,2026-02-07,Hyderabad,Telangana,55+,Email,Standard,True
+C000045,Tara,Iyer,customer0045@example.com,2024-07-05,Chennai,Tamil Nadu,35-44,Direct,Standard,False
+C000046,Kabir,Nair,customer0046@example.com,2026-06-20,Kochi,Kerala,18-24,Paid Social,Standard,True
+C000047,Priya,Verma,customer0047@example.com,2025-05-15,Kolkata,West Bengal,25-34,Email,Silver,True
+C000048,Aditi,Iyer,customer0048@example.com,2024-04-05,Bengaluru,Karnataka,45-54,Email,Standard,True
+C000049,Dev,Das,customer0049@example.com,2025-07-20,Jaipur,Rajasthan,45-54,Influencer,Standard,True
+C000050,Aditi,Singh,customer0050@example.com,2024-10-04,Jaipur,Rajasthan,25-34,Organic Search,Standard,True
+C000051,Meera,Iyer,customer0051@example.com,2026-08-31,Ahmedabad,Gujarat,25-34,Affiliate,Standard,True
+C000052,Aditi,Patel,customer0052@example.com,2025-09-03,Ahmedabad,Gujarat,25-34,Paid Search,Standard,True
+C000053,Vivaan,Singh,customer0053@example.com,2025-06-30,Kochi,Kerala,18-24,Influencer,Standard,True
+C000054,Tara,Patel,customer0054@example.com,2025-10-15,Delhi,Delhi,18-24,Paid Social,Standard,True
+C000055,Diya,Singh,customer0055@example.com,2026-09-15,Delhi,Delhi,45-54,Organic Search,Standard,True
+C000056,Diya,Reddy,customer0056@example.com,2025-10-06,Lucknow,Uttar Pradesh,25-34,Direct,Gold,True
+C000057,Priya,Verma,customer0057@example.com,2024-05-01,Hyderabad,Telangana,45-54,Paid Social,Silver,True
+C000058,Reyansh,Bose,customer0058@example.com,2025-01-24,Ahmedabad,Gujarat,45-54,Paid Search,Standard,True
+C000059,Diya,Joshi,customer0059@example.com,2025-09-27,Lucknow,Uttar Pradesh,18-24,Influencer,Standard,True
+C000060,Meera,Iyer,customer0060@example.com,2024-03-24,Jamshedpur,Jharkhand,25-34,Paid Social,Standard,True
+C000061,Tara,Singh,customer0061@example.com,2025-08-31,Kochi,Kerala,18-24,Paid Search,Silver,True
+C000062,Saanvi,Bose,customer0062@example.com,2024-03-13,Jaipur,Rajasthan,35-44,Affiliate,Silver,True
+C000063,Ananya,Nair,customer0063@example.com,2025-03-11,Hyderabad,Telangana,25-34,Email,Gold,False
+C000064,Meera,Verma,customer0064@example.com,2024-03-02,Mumbai,Maharashtra,35-44,Paid Social,Silver,False
+C000065,Reyansh,Roy,customer0065@example.com,2024-05-07,Jaipur,Rajasthan,35-44,Email,Gold,True
+C000066,Ishaan,Joshi,customer0066@example.com,2025-03-24,Jaipur,Rajasthan,18-24,Direct,Silver,True
+C000067,Saanvi,Gupta,customer0067@example.com,2024-04-03,Bengaluru,Karnataka,55+,Paid Social,Standard,False
+C000068,Diya,Verma,customer0068@example.com,2025-08-13,Pune,Maharashtra,25-34,Paid Social,Silver,False
+C000069,Samar,Mehta,customer0069@example.com,2026-10-17,Delhi,Delhi,45-54,Influencer,Standard,True
+C000070,Ananya,Pillai,customer0070@example.com,2025-11-17,Chennai,Tamil Nadu,25-34,Paid Search,Silver,True
+C000071,Priya,Sharma,customer0071@example.com,2026-04-13,Kolkata,West Bengal,45-54,Organic Search,Standard,True
+C000072,Dev,Pillai,customer0072@example.com,2026-06-04,Kolkata,West Bengal,18-24,Email,Standard,True
+C000073,Kavya,Joshi,customer0073@example.com,2025-06-14,Hyderabad,Telangana,45-54,Email,Silver,True
+C000074,Aditi,Khan,customer0074@example.com,2024-05-14,Ahmedabad,Gujarat,45-54,Organic Search,Platinum,True
+C000075,Meera,Singh,customer0075@example.com,2025-12-27,Hyderabad,Telangana,55+,Organic Search,Standard,True
+C000076,Ananya,Gupta,customer0076@example.com,2025-04-17,Mumbai,Maharashtra,25-34,Paid Social,Silver,True
+C000077,Tara,Khan,customer0077@example.com,2025-03-01,Pune,Maharashtra,25-34,Paid Social,Standard,True
+C000078,Vivaan,Pillai,customer0078@example.com,2025-06-04,Lucknow,Uttar Pradesh,18-24,Paid Search,Silver,True
+C000079,Aarav,Singh,customer0079@example.com,2024-09-30,Ahmedabad,Gujarat,35-44,Direct,Standard,True
+C000080,Priya,Khan,customer0080@example.com,2025-04-02,Delhi,Delhi,35-44,Paid Search,Silver,True
+C000081,Aditya,Roy,customer0081@example.com,2026-06-09,Chennai,Tamil Nadu,25-34,Paid Social,Standard,False
+C000082,Tara,Roy,customer0082@example.com,2024-11-21,Bengaluru,Karnataka,45-54,Paid Search,Silver,False
+C000083,Diya,Reddy,customer0083@example.com,2025-05-22,Delhi,Delhi,55+,Influencer,Standard,True
+C000084,Dev,Bose,customer0084@example.com,2024-04-12,Jaipur,Rajasthan,45-54,Organic Search,Standard,False
+C000085,Tara,Verma,customer0085@example.com,2024-03-17,Delhi,Delhi,35-44,Paid Search,Silver,True
+C000086,Priya,Mehta,customer0086@example.com,2026-05-22,Chennai,Tamil Nadu,35-44,Email,Gold,True
+C000087,Ira,Patel,customer0087@example.com,2024-02-06,Ahmedabad,Gujarat,25-34,Email,Gold,False
+C000088,Nisha,Patel,customer0088@example.com,2024-04-02,Kochi,Kerala,18-24,Paid Social,Silver,False
+C000089,Diya,Singh,customer0089@example.com,2024-11-28,Bengaluru,Karnataka,35-44,Paid Search,Standard,True
+C000090,Meera,Reddy,customer0090@example.com,2025-11-29,Lucknow,Uttar Pradesh,25-34,Organic Search,Gold,True
+C000091,Samar,Reddy,customer0091@example.com,2025-05-24,Hyderabad,Telangana,25-34,Paid Social,Standard,True
+C000092,Reyansh,Bose,customer0092@example.com,2026-07-09,Bengaluru,Karnataka,35-44,Email,Standard,True
+C000093,Samar,Singh,customer0093@example.com,2026-10-08,Chennai,Tamil Nadu,45-54,Email,Standard,True
+C000094,Tara,Patel,customer0094@example.com,2026-05-23,Kolkata,West Bengal,25-34,Paid Search,Standard,True
+C000095,Aarav,Pillai,customer0095@example.com,2024-10-29,Kochi,Kerala,45-54,Paid Search,Standard,True
+C000096,Diya,Bose,customer0096@example.com,2026-09-23,Kochi,Kerala,55+,Affiliate,Silver,False
+C000097,Kavya,Iyer,customer0097@example.com,2025-09-13,Hyderabad,Telangana,25-34,Email,Silver,False
+C000098,Vivaan,Gupta,customer0098@example.com,2025-11-28,Jamshedpur,Jharkhand,18-24,Direct,Silver,True
+C000099,Samar,Das,customer0099@example.com,2024-02-04,Jaipur,Rajasthan,25-34,Organic Search,Standard,False
+C000100,Vivaan,Verma,customer0100@example.com,2024-07-24,Delhi,Delhi,55+,Direct,Standard,True
+C000101,Meera,Singh,customer0101@example.com,2026-04-30,Pune,Maharashtra,45-54,Influencer,Standard,False
+C000102,Ishaan,Reddy,customer0102@example.com,2025-04-24,Mumbai,Maharashtra,25-34,Direct,Silver,False
+C000103,Ishaan,Verma,customer0103@example.com,2025-01-09,Ahmedabad,Gujarat,45-54,Organic Search,Standard,True
+C000104,Kabir,Joshi,customer0104@example.com,2026-02-05,Jamshedpur,Jharkhand,45-54,Direct,Gold,True
+C000105,Aarav,Joshi,customer0105@example.com,2025-04-27,Hyderabad,Telangana,55+,Paid Search,Standard,True
+C000106,Reyansh,Bose,customer0106@example.com,2026-04-23,Jamshedpur,Jharkhand,35-44,Email,Standard,True
+C000107,Tara,Patel,customer0107@example.com,2024-11-07,Bengaluru,Karnataka,18-24,Paid Search,Standard,True
+C000108,Priya,Mehta,customer0108@example.com,2025-11-17,Chennai,Tamil Nadu,55+,Affiliate,Standard,True
+C000109,Tara,Joshi,customer0109@example.com,2026-05-03,Mumbai,Maharashtra,45-54,Direct,Standard,True
+C000110,Reyansh,Iyer,customer0110@example.com,2025-03-30,Hyderabad,Telangana,35-44,Organic Search,Silver,True
+C000111,Diya,Mehta,customer0111@example.com,2025-01-02,Jamshedpur,Jharkhand,35-44,Organic Search,Standard,False
+C000112,Aditya,Gupta,customer0112@example.com,2024-04-03,Jaipur,Rajasthan,55+,Influencer,Standard,True
+C000113,Samar,Iyer,customer0113@example.com,2026-03-16,Delhi,Delhi,18-24,Direct,Standard,True
+C000114,Vivaan,Verma,customer0114@example.com,2024-12-02,Hyderabad,Telangana,55+,Organic Search,Gold,True
+C000115,Kabir,Verma,customer0115@example.com,2025-07-07,Delhi,Delhi,25-34,Organic Search,Gold,True
+C000116,Saanvi,Joshi,customer0116@example.com,2026-03-19,Chennai,Tamil Nadu,35-44,Organic Search,Standard,True
+C000117,Ananya,Roy,customer0117@example.com,2025-06-22,Kolkata,West Bengal,18-24,Paid Social,Silver,True
+C000118,Dev,Iyer,customer0118@example.com,2025-04-07,Mumbai,Maharashtra,55+,Organic Search,Silver,False
+C000119,Reyansh,Gupta,customer0119@example.com,2024-11-04,Ahmedabad,Gujarat,18-24,Organic Search,Standard,True
+C000120,Tara,Roy,customer0120@example.com,2024-04-20,Jamshedpur,Jharkhand,45-54,Organic Search,Standard,True
+C000121,Kabir,Joshi,customer0121@example.com,2024-05-09,Mumbai,Maharashtra,55+,Paid Social,Standard,False
+C000122,Reyansh,Nair,customer0122@example.com,2024-10-28,Ahmedabad,Gujarat,55+,Paid Social,Silver,True
+C000123,Priya,Roy,customer0123@example.com,2025-10-28,Jamshedpur,Jharkhand,25-34,Paid Social,Gold,True
+C000124,Nisha,Roy,customer0124@example.com,2025-02-12,Jaipur,Rajasthan,18-24,Paid Search,Standard,True
+C000125,Tara,Patel,customer0125@example.com,2025-12-04,Delhi,Delhi,18-24,Direct,Standard,True
+C000126,Vivaan,Nair,customer0126@example.com,2025-01-16,Kochi,Kerala,18-24,Paid Social,Standard,True
+C000127,Kavya,Pillai,customer0127@example.com,2025-02-24,Mumbai,Maharashtra,45-54,Direct,Silver,False
+C000128,Kavya,Patel,customer0128@example.com,2024-11-15,Lucknow,Uttar Pradesh,55+,Paid Social,Standard,True
+C000129,Priya,Das,customer0129@example.com,2024-12-24,Mumbai,Maharashtra,18-24,Affiliate,Standard,False
+C000130,Ira,Joshi,customer0130@example.com,2026-09-24,Ahmedabad,Gujarat,55+,Organic Search,Gold,False
+C000131,Meera,Singh,customer0131@example.com,2024-01-30,Pune,Maharashtra,35-44,Direct,Standard,True
+C000132,Arjun,Patel,customer0132@example.com,2025-08-02,Delhi,Delhi,25-34,Affiliate,Platinum,True
+C000133,Arjun,Mehta,customer0133@example.com,2024-08-08,Ahmedabad,Gujarat,45-54,Paid Search,Standard,False
+C000134,Ishaan,Bose,customer0134@example.com,2025-09-02,Lucknow,Uttar Pradesh,18-24,Organic Search,Silver,True
+C000135,Reyansh,Gupta,customer0135@example.com,2024-10-05,Mumbai,Maharashtra,45-54,Paid Social,Standard,True
+C000136,Kavya,Mehta,customer0136@example.com,2024-04-26,Ahmedabad,Gujarat,18-24,Paid Search,Silver,True
+C000137,Diya,Iyer,customer0137@example.com,2024-11-11,Jamshedpur,Jharkhand,45-54,Influencer,Standard,True
+C000138,Vivaan,Verma,customer0138@example.com,2026-02-24,Hyderabad,Telangana,35-44,Paid Search,Standard,True
+C000139,Vivaan,Mehta,customer0139@example.com,2024-06-28,Kolkata,West Bengal,55+,Email,Standard,False
+C000140,Arjun,Pillai,customer0140@example.com,2024-03-14,Chennai,Tamil Nadu,18-24,Paid Social,Standard,True
+C000141,Nisha,Joshi,customer0141@example.com,2025-08-12,Chennai,Tamil Nadu,45-54,Email,Standard,True
+C000142,Rohan,Reddy,customer0142@example.com,2026-09-16,Bengaluru,Karnataka,55+,Paid Social,Silver,True
+C000143,Ananya,Iyer,customer0143@example.com,2026-05-14,Kolkata,West Bengal,45-54,Paid Social,Standard,True
+C000144,Rohan,Iyer,customer0144@example.com,2026-02-02,Pune,Maharashtra,35-44,Affiliate,Standard,True
+C000145,Aditya,Bose,customer0145@example.com,2025-06-06,Ahmedabad,Gujarat,35-44,Paid Search,Gold,True
+C000146,Ananya,Reddy,customer0146@example.com,2024-08-29,Delhi,Delhi,35-44,Organic Search,Standard,False
+C000147,Meera,Verma,customer0147@example.com,2024-03-18,Jamshedpur,Jharkhand,45-54,Paid Social,Standard,True
+C000148,Samar,Gupta,customer0148@example.com,2026-08-04,Jamshedpur,Jharkhand,55+,Paid Search,Platinum,True
+C000149,Tara,Khan,customer0149@example.com,2024-03-10,Jaipur,Rajasthan,35-44,Direct,Standard,True
+C000150,Reyansh,Khan,customer0150@example.com,2024-11-13,Mumbai,Maharashtra,18-24,Organic Search,Silver,True
+C000151,Ira,Nair,customer0151@example.com,2025-09-21,Mumbai,Maharashtra,45-54,Paid Social,Standard,False
+C000152,Samar,Gupta,customer0152@example.com,2025-04-05,Bengaluru,Karnataka,25-34,Paid Search,Standard,True
+C000153,Ananya,Verma,customer0153@example.com,2025-04-06,Bengaluru,Karnataka,35-44,Influencer,Standard,True
+C000154,Reyansh,Khan,customer0154@example.com,2024-09-10,Bengaluru,Karnataka,55+,Paid Social,Standard,True
+C000155,Nisha,Verma,customer0155@example.com,2025-01-31,Pune,Maharashtra,35-44,Email,Standard,True
+C000156,Rohan,Patel,customer0156@example.com,2024-03-08,Chennai,Tamil Nadu,55+,Email,Standard,False
+C000157,Ira,Pillai,customer0157@example.com,2026-09-14,Jamshedpur,Jharkhand,25-34,Paid Search,Standard,True
+C000158,Arjun,Reddy,customer0158@example.com,2024-11-13,Chennai,Tamil Nadu,55+,Email,Standard,True
+C000159,Rohan,Pillai,customer0159@example.com,2026-03-21,Jamshedpur,Jharkhand,25-34,Email,Silver,False
+C000160,Dev,Patel,customer0160@example.com,2026-07-23,Jamshedpur,Jharkhand,45-54,Paid Social,Standard,True
+C000161,Tara,Iyer,customer0161@example.com,2024-12-15,Hyderabad,Telangana,25-34,Influencer,Standard,True
+C000162,Priya,Pillai,customer0162@example.com,2025-06-03,Mumbai,Maharashtra,55+,Organic Search,Standard,False
+C000163,Arjun,Reddy,customer0163@example.com,2025-09-03,Delhi,Delhi,25-34,Organic Search,Silver,True
+C000164,Reyansh,Sharma,customer0164@example.com,2026-01-08,Delhi,Delhi,45-54,Paid Search,Silver,False
+C000165,Reyansh,Iyer,customer0165@example.com,2024-10-18,Lucknow,Uttar Pradesh,55+,Paid Search,Platinum,False
+C000166,Samar,Khan,customer0166@example.com,2025-01-11,Hyderabad,Telangana,45-54,Affiliate,Silver,True
+C000167,Meera,Pillai,customer0167@example.com,2026-09-16,Kolkata,West Bengal,25-34,Direct,Standard,True
+C000168,Kavya,Nair,customer0168@example.com,2025-05-07,Jamshedpur,Jharkhand,18-24,Affiliate,Standard,True
+C000169,Meera,Singh,customer0169@example.com,2026-02-20,Mumbai,Maharashtra,45-54,Direct,Standard,True
+C000170,Reyansh,Bose,customer0170@example.com,2026-04-16,Hyderabad,Telangana,35-44,Direct,Standard,True
+C000171,Arjun,Patel,customer0171@example.com,2024-08-29,Chennai,Tamil Nadu,35-44,Paid Search,Standard,True
+C000172,Rohan,Verma,customer0172@example.com,2025-10-27,Kochi,Kerala,25-34,Organic Search,Standard,False
+C000173,Vivaan,Verma,customer0173@example.com,2026-05-01,Kochi,Kerala,45-54,Paid Social,Standard,True
+C000174,Vivaan,Nair,customer0174@example.com,2024-08-08,Pune,Maharashtra,55+,Paid Social,Standard,True
+C000175,Diya,Iyer,customer0175@example.com,2024-05-04,Pune,Maharashtra,45-54,Email,Silver,True
+C000176,Priya,Sharma,customer0176@example.com,2025-09-03,Jaipur,Rajasthan,55+,Paid Social,Silver,True
+C000177,Kavya,Iyer,customer0177@example.com,2025-09-21,Bengaluru,Karnataka,55+,Paid Social,Silver,True
+C000178,Dev,Nair,customer0178@example.com,2024-03-10,Chennai,Tamil Nadu,55+,Affiliate,Standard,True
+C000179,Arjun,Das,customer0179@example.com,2024-02-14,Jaipur,Rajasthan,35-44,Affiliate,Standard,True
+C000180,Ananya,Verma,customer0180@example.com,2026-01-20,Hyderabad,Telangana,55+,Affiliate,Standard,True
+C000181,Meera,Pillai,customer0181@example.com,2024-12-12,Ahmedabad,Gujarat,45-54,Influencer,Standard,True
+C000182,Reyansh,Sharma,customer0182@example.com,2024-03-05,Delhi,Delhi,35-44,Organic Search,Silver,False
+C000183,Aditi,Nair,customer0183@example.com,2026-08-13,Chennai,Tamil Nadu,45-54,Influencer,Standard,True
+C000184,Aditi,Das,customer0184@example.com,2024-07-14,Jamshedpur,Jharkhand,18-24,Direct,Standard,True
+C000185,Arjun,Roy,customer0185@example.com,2025-03-23,Chennai,Tamil Nadu,45-54,Direct,Standard,False
+C000186,Tara,Das,customer0186@example.com,2025-12-09,Jaipur,Rajasthan,55+,Paid Search,Standard,True
+C000187,Meera,Nair,customer0187@example.com,2025-09-08,Kolkata,West Bengal,35-44,Paid Search,Standard,True
+C000188,Ira,Roy,customer0188@example.com,2025-04-01,Pune,Maharashtra,45-54,Organic Search,Standard,True
+C000189,Kavya,Joshi,customer0189@example.com,2026-06-09,Kochi,Kerala,45-54,Paid Search,Platinum,False
+C000190,Arjun,Das,customer0190@example.com,2025-11-18,Mumbai,Maharashtra,55+,Direct,Silver,False
+C000191,Ira,Gupta,customer0191@example.com,2026-05-19,Delhi,Delhi,45-54,Organic Search,Standard,False
+C000192,Arjun,Joshi,customer0192@example.com,2025-01-05,Chennai,Tamil Nadu,18-24,Paid Social,Silver,False
+C000193,Ishaan,Joshi,customer0193@example.com,2025-03-30,Chennai,Tamil Nadu,25-34,Paid Social,Standard,True
+C000194,Ananya,Sharma,customer0194@example.com,2026-09-10,Hyderabad,Telangana,25-34,Paid Social,Standard,True
+C000195,Kabir,Roy,customer0195@example.com,2026-03-04,Pune,Maharashtra,45-54,Organic Search,Standard,True
+C000196,Ananya,Reddy,customer0196@example.com,2024-07-23,Jaipur,Rajasthan,18-24,Paid Social,Gold,True
+C000197,Rohan,Gupta,customer0197@example.com,2026-04-09,Mumbai,Maharashtra,35-44,Email,Standard,True
+C000198,Meera,Roy,customer0198@example.com,2026-05-21,Pune,Maharashtra,25-34,Direct,Standard,True
+C000199,Vivaan,Iyer,customer0199@example.com,2026-03-22,Hyderabad,Telangana,45-54,Organic Search,Standard,True
+C000200,Ira,Bose,customer0200@example.com,2024-05-12,Ahmedabad,Gujarat,18-24,Organic Search,Standard,True
+C000201,Nisha,Verma,customer0201@example.com,2025-06-22,Jaipur,Rajasthan,45-54,Direct,Standard,False
+C000202,Reyansh,Khan,customer0202@example.com,2024-03-16,Jamshedpur,Jharkhand,55+,Paid Search,Gold,False
+C000203,Meera,Verma,customer0203@example.com,2025-08-24,Jamshedpur,Jharkhand,25-34,Paid Social,Gold,True
+C000204,Vivaan,Singh,customer0204@example.com,2025-06-14,Mumbai,Maharashtra,25-34,Organic Search,Gold,True
+C000205,Aditi,Pillai,customer0205@example.com,2026-07-05,Ahmedabad,Gujarat,18-24,Paid Search,Silver,True
+C000206,Aditi,Joshi,customer0206@example.com,2025-10-02,Delhi,Delhi,55+,Organic Search,Silver,True
+C000207,Meera,Gupta,customer0207@example.com,2024-06-06,Lucknow,Uttar Pradesh,55+,Affiliate,Standard,False
+C000208,Aarav,Patel,customer0208@example.com,2024-02-12,Lucknow,Uttar Pradesh,18-24,Influencer,Silver,True
+C000209,Samar,Mehta,customer0209@example.com,2026-02-24,Hyderabad,Telangana,55+,Email,Standard,True
+C000210,Aditi,Khan,customer0210@example.com,2025-10-19,Pune,Maharashtra,25-34,Direct,Silver,True
+C000211,Diya,Reddy,customer0211@example.com,2025-12-06,Mumbai,Maharashtra,45-54,Paid Social,Standard,True
+C000212,Rohan,Roy,customer0212@example.com,2024-11-16,Delhi,Delhi,35-44,Influencer,Standard,True
+C000213,Rohan,Iyer,customer0213@example.com,2024-04-18,Ahmedabad,Gujarat,45-54,Organic Search,Standard,True
+C000214,Arjun,Pillai,customer0214@example.com,2024-10-24,Bengaluru,Karnataka,55+,Paid Social,Platinum,False
+C000215,Samar,Roy,customer0215@example.com,2026-08-14,Chennai,Tamil Nadu,35-44,Organic Search,Standard,False
+C000216,Aditi,Khan,customer0216@example.com,2025-05-25,Jaipur,Rajasthan,18-24,Organic Search,Standard,True
+C000217,Samar,Das,customer0217@example.com,2024-08-08,Hyderabad,Telangana,18-24,Organic Search,Standard,False
+C000218,Tara,Singh,customer0218@example.com,2025-11-19,Jamshedpur,Jharkhand,55+,Organic Search,Standard,True
+C000219,Kavya,Verma,customer0219@example.com,2026-01-14,Pune,Maharashtra,45-54,Paid Search,Standard,True
+C000220,Priya,Singh,customer0220@example.com,2025-01-06,Hyderabad,Telangana,18-24,Paid Search,Standard,True
+C000221,Ira,Patel,customer0221@example.com,2025-11-27,Lucknow,Uttar Pradesh,25-34,Influencer,Standard,False
+C000222,Kavya,Verma,customer0222@example.com,2025-07-25,Chennai,Tamil Nadu,25-34,Organic Search,Standard,True
+C000223,Vivaan,Roy,customer0223@example.com,2024-02-09,Bengaluru,Karnataka,35-44,Direct,Standard,True
+C000224,Rohan,Bose,customer0224@example.com,2024-05-23,Ahmedabad,Gujarat,55+,Paid Search,Standard,True
+C000225,Rohan,Nair,customer0225@example.com,2025-08-30,Pune,Maharashtra,55+,Paid Social,Silver,True
+C000226,Rohan,Gupta,customer0226@example.com,2025-01-12,Bengaluru,Karnataka,18-24,Influencer,Standard,False
+C000227,Aarav,Joshi,customer0227@example.com,2026-06-12,Kochi,Kerala,45-54,Paid Search,Silver,False
+C000228,Saanvi,Roy,customer0228@example.com,2025-08-14,Lucknow,Uttar Pradesh,18-24,Paid Social,Standard,True
+C000229,Arjun,Reddy,customer0229@example.com,2026-03-04,Lucknow,Uttar Pradesh,25-34,Organic Search,Gold,True
+C000230,Rohan,Mehta,customer0230@example.com,2025-03-27,Bengaluru,Karnataka,25-34,Paid Social,Standard,True
+C000231,Tara,Pillai,customer0231@example.com,2026-07-31,Lucknow,Uttar Pradesh,18-24,Email,Standard,True
+C000232,Dev,Mehta,customer0232@example.com,2025-05-04,Jamshedpur,Jharkhand,35-44,Influencer,Standard,True
+C000233,Kabir,Joshi,customer0233@example.com,2024-12-28,Ahmedabad,Gujarat,45-54,Organic Search,Standard,True
+C000234,Aditi,Verma,customer0234@example.com,2026-08-22,Hyderabad,Telangana,35-44,Email,Silver,True
+C000235,Priya,Bose,customer0235@example.com,2024-12-23,Jaipur,Rajasthan,35-44,Paid Search,Standard,True
+C000236,Kavya,Verma,customer0236@example.com,2026-04-18,Kolkata,West Bengal,25-34,Paid Search,Standard,True
+C000237,Reyansh,Gupta,customer0237@example.com,2026-08-04,Chennai,Tamil Nadu,35-44,Affiliate,Standard,False
+C000238,Priya,Roy,customer0238@example.com,2026-08-13,Pune,Maharashtra,35-44,Organic Search,Standard,True
+C000239,Dev,Iyer,customer0239@example.com,2024-02-21,Hyderabad,Telangana,25-34,Organic Search,Standard,True
+C000240,Vivaan,Sharma,customer0240@example.com,2025-11-28,Mumbai,Maharashtra,55+,Influencer,Standard,True
+C000241,Aditya,Verma,customer0241@example.com,2025-05-03,Jaipur,Rajasthan,35-44,Paid Search,Silver,False
+C000242,Samar,Iyer,customer0242@example.com,2025-10-29,Mumbai,Maharashtra,55+,Affiliate,Gold,True
+C000243,Meera,Bose,customer0243@example.com,2025-03-03,Delhi,Delhi,18-24,Influencer,Standard,True
+C000244,Aditi,Bose,customer0244@example.com,2026-09-12,Kochi,Kerala,18-24,Organic Search,Standard,True
+C000245,Reyansh,Gupta,customer0245@example.com,2024-10-18,Chennai,Tamil Nadu,55+,Paid Social,Gold,True
+C000246,Kabir,Iyer,customer0246@example.com,2025-04-24,Ahmedabad,Gujarat,18-24,Paid Search,Silver,True
+C000247,Aarav,Roy,customer0247@example.com,2024-07-09,Kochi,Kerala,35-44,Direct,Standard,False
+C000248,Arjun,Pillai,customer0248@example.com,2025-09-17,Delhi,Delhi,45-54,Paid Social,Standard,True
+C000249,Vivaan,Khan,customer0249@example.com,2026-10-02,Delhi,Delhi,35-44,Direct,Standard,True
+C000250,Kabir,Das,customer0250@example.com,2026-02-10,Jaipur,Rajasthan,35-44,Paid Social,Standard,True
+C000251,Saanvi,Sharma,customer0251@example.com,2025-12-10,Chennai,Tamil Nadu,18-24,Paid Social,Standard,True
+C000252,Aditi,Roy,customer0252@example.com,2026-02-27,Kochi,Kerala,18-24,Email,Gold,True
+C000253,Vivaan,Khan,customer0253@example.com,2024-08-12,Hyderabad,Telangana,25-34,Paid Social,Platinum,True
+C000254,Tara,Verma,customer0254@example.com,2025-07-16,Kochi,Kerala,55+,Direct,Silver,False
+C000255,Ira,Pillai,customer0255@example.com,2026-02-11,Jamshedpur,Jharkhand,18-24,Paid Social,Standard,True
+C000256,Diya,Pillai,customer0256@example.com,2024-04-24,Lucknow,Uttar Pradesh,55+,Direct,Standard,True
+C000257,Dev,Khan,customer0257@example.com,2024-12-01,Delhi,Delhi,18-24,Email,Silver,True
+C000258,Diya,Khan,customer0258@example.com,2025-04-01,Ahmedabad,Gujarat,25-34,Paid Social,Standard,True
+C000259,Aditi,Roy,customer0259@example.com,2025-11-19,Jaipur,Rajasthan,18-24,Paid Search,Silver,False
+C000260,Diya,Mehta,customer0260@example.com,2024-03-15,Lucknow,Uttar Pradesh,35-44,Email,Standard,True
+C000261,Tara,Sharma,customer0261@example.com,2026-10-06,Mumbai,Maharashtra,35-44,Paid Search,Silver,False
+C000262,Nisha,Das,customer0262@example.com,2025-10-23,Kochi,Kerala,45-54,Paid Social,Gold,True
+C000263,Priya,Reddy,customer0263@example.com,2025-11-30,Mumbai,Maharashtra,35-44,Organic Search,Platinum,True
+C000264,Saanvi,Pillai,customer0264@example.com,2026-01-15,Delhi,Delhi,18-24,Affiliate,Platinum,True
+C000265,Nisha,Nair,customer0265@example.com,2025-07-11,Kochi,Kerala,45-54,Direct,Standard,True
+C000266,Ananya,Sharma,customer0266@example.com,2024-07-12,Pune,Maharashtra,45-54,Paid Social,Gold,False
+C000267,Ishaan,Patel,customer0267@example.com,2024-07-30,Hyderabad,Telangana,55+,Organic Search,Standard,True
+C000268,Diya,Mehta,customer0268@example.com,2024-09-07,Bengaluru,Karnataka,45-54,Paid Search,Standard,False
+C000269,Dev,Singh,customer0269@example.com,2024-05-23,Bengaluru,Karnataka,25-34,Direct,Silver,True
+C000270,Rohan,Iyer,customer0270@example.com,2026-03-02,Lucknow,Uttar Pradesh,35-44,Direct,Platinum,True
+C000271,Kabir,Sharma,customer0271@example.com,2024-11-03,Kolkata,West Bengal,55+,Influencer,Gold,False
+C000272,Nisha,Nair,customer0272@example.com,2025-11-26,Jamshedpur,Jharkhand,45-54,Organic Search,Standard,True
+C000273,Dev,Das,customer0273@example.com,2026-03-15,Kolkata,West Bengal,45-54,Paid Search,Standard,True
+C000274,Saanvi,Pillai,customer0274@example.com,2025-04-29,Ahmedabad,Gujarat,25-34,Paid Search,Silver,False
+C000275,Nisha,Mehta,customer0275@example.com,2025-07-29,Bengaluru,Karnataka,55+,Paid Social,Standard,True
+C000276,Ishaan,Bose,customer0276@example.com,2025-10-24,Chennai,Tamil Nadu,45-54,Direct,Standard,False
+C000277,Kabir,Mehta,customer0277@example.com,2024-02-22,Hyderabad,Telangana,55+,Paid Social,Gold,True
+C000278,Priya,Iyer,customer0278@example.com,2026-01-11,Lucknow,Uttar Pradesh,45-54,Organic Search,Gold,True
+C000279,Aditya,Roy,customer0279@example.com,2024-08-04,Bengaluru,Karnataka,18-24,Affiliate,Silver,False
+C000280,Aditya,Mehta,customer0280@example.com,2025-09-10,Kochi,Kerala,25-34,Paid Social,Silver,True
+C000281,Kavya,Singh,customer0281@example.com,2025-10-26,Ahmedabad,Gujarat,35-44,Paid Search,Gold,True
+C000282,Rohan,Bose,customer0282@example.com,2025-04-25,Kochi,Kerala,25-34,Paid Search,Standard,True
+C000283,Vivaan,Sharma,customer0283@example.com,2026-01-29,Hyderabad,Telangana,35-44,Paid Social,Standard,False
+C000284,Aditya,Das,customer0284@example.com,2024-06-05,Pune,Maharashtra,25-34,Paid Search,Silver,True
+C000285,Rohan,Singh,customer0285@example.com,2026-08-24,Jamshedpur,Jharkhand,45-54,Influencer,Silver,True
+C000286,Kavya,Reddy,customer0286@example.com,2026-01-20,Delhi,Delhi,25-34,Affiliate,Standard,False
+C000287,Diya,Nair,customer0287@example.com,2026-10-11,Ahmedabad,Gujarat,18-24,Direct,Standard,False
+C000288,Aarav,Mehta,customer0288@example.com,2026-02-21,Bengaluru,Karnataka,25-34,Direct,Standard,True
+C000289,Dev,Khan,customer0289@example.com,2024-08-11,Bengaluru,Karnataka,35-44,Organic Search,Silver,False
+C000290,Tara,Sharma,customer0290@example.com,2025-11-06,Jaipur,Rajasthan,18-24,Paid Social,Standard,True
+C000291,Priya,Singh,customer0291@example.com,2024-10-08,Kochi,Kerala,18-24,Paid Social,Silver,True
+C000292,Ananya,Nair,customer0292@example.com,2024-04-19,Delhi,Delhi,25-34,Paid Search,Standard,True
+C000293,Arjun,Patel,customer0293@example.com,2024-09-30,Chennai,Tamil Nadu,35-44,Influencer,Standard,True
+C000294,Aditi,Gupta,customer0294@example.com,2024-08-19,Kochi,Kerala,18-24,Email,Gold,False
+C000295,Arjun,Mehta,customer0295@example.com,2025-02-19,Mumbai,Maharashtra,55+,Paid Social,Silver,True
+C000296,Nisha,Gupta,customer0296@example.com,2025-05-26,Mumbai,Maharashtra,35-44,Paid Social,Gold,True
+C000297,Diya,Iyer,customer0297@example.com,2026-07-30,Ahmedabad,Gujarat,25-34,Direct,Silver,True
+C000298,Ishaan,Gupta,customer0298@example.com,2024-02-17,Pune,Maharashtra,35-44,Direct,Standard,True
+C000299,Aditya,Joshi,customer0299@example.com,2024-01-17,Chennai,Tamil Nadu,25-34,Affiliate,Silver,True
+C000300,Meera,Joshi,customer0300@example.com,2024-11-02,Mumbai,Maharashtra,25-34,Paid Social,Gold,True
+C000301,Arjun,Verma,customer0301@example.com,2024-12-05,Ahmedabad,Gujarat,25-34,Direct,Silver,True
+C000302,Kavya,Sharma,customer0302@example.com,2026-09-24,Kochi,Kerala,18-24,Paid Social,Silver,True
+C000303,Ira,Mehta,customer0303@example.com,2026-09-04,Lucknow,Uttar Pradesh,35-44,Organic Search,Standard,False
+C000304,Kavya,Nair,customer0304@example.com,2024-08-21,Jaipur,Rajasthan,45-54,Paid Social,Silver,True
+C000305,Ira,Singh,customer0305@example.com,2026-03-01,Mumbai,Maharashtra,25-34,Affiliate,Standard,True
+C000306,Vivaan,Roy,customer0306@example.com,2026-03-13,Kochi,Kerala,45-54,Paid Search,Standard,True
+C000307,Kavya,Verma,customer0307@example.com,2025-03-31,Pune,Maharashtra,35-44,Organic Search,Standard,True
+C000308,Dev,Mehta,customer0308@example.com,2025-07-22,Ahmedabad,Gujarat,18-24,Organic Search,Standard,True
+C000309,Rohan,Pillai,customer0309@example.com,2026-03-14,Lucknow,Uttar Pradesh,45-54,Organic Search,Standard,False
+C000310,Priya,Bose,customer0310@example.com,2026-07-11,Kochi,Kerala,25-34,Paid Social,Standard,True
+C000311,Aditi,Singh,customer0311@example.com,2024-10-02,Delhi,Delhi,45-54,Organic Search,Standard,True
+C000312,Ishaan,Das,customer0312@example.com,2025-05-10,Pune,Maharashtra,35-44,Influencer,Silver,True
+C000313,Reyansh,Patel,customer0313@example.com,2024-07-19,Lucknow,Uttar Pradesh,25-34,Paid Search,Gold,True
+C000314,Rohan,Khan,customer0314@example.com,2025-01-24,Lucknow,Uttar Pradesh,35-44,Paid Social,Silver,True
+C000315,Aditi,Das,customer0315@example.com,2024-05-19,Lucknow,Uttar Pradesh,55+,Influencer,Standard,True
+C000316,Rohan,Singh,customer0316@example.com,2026-09-18,Kolkata,West Bengal,45-54,Influencer,Silver,True
+C000317,Arjun,Das,customer0317@example.com,2026-04-16,Pune,Maharashtra,18-24,Direct,Standard,False
+C000318,Priya,Sharma,customer0318@example.com,2025-11-29,Delhi,Delhi,45-54,Influencer,Standard,False
+C000319,Nisha,Gupta,customer0319@example.com,2024-03-11,Kochi,Kerala,45-54,Organic Search,Standard,True
+C000320,Nisha,Verma,customer0320@example.com,2026-01-02,Delhi,Delhi,45-54,Organic Search,Platinum,True
+C000321,Dev,Bose,customer0321@example.com,2025-07-01,Kolkata,West Bengal,45-54,Paid Social,Silver,True
+C000322,Ishaan,Patel,customer0322@example.com,2025-08-31,Ahmedabad,Gujarat,25-34,Email,Standard,True
+C000323,Arjun,Verma,customer0323@example.com,2025-07-30,Bengaluru,Karnataka,35-44,Influencer,Standard,True
+C000324,Dev,Roy,customer0324@example.com,2024-08-15,Pune,Maharashtra,55+,Paid Social,Silver,True
+C000325,Reyansh,Verma,customer0325@example.com,2025-02-04,Chennai,Tamil Nadu,55+,Email,Standard,False
+C000326,Aditi,Mehta,customer0326@example.com,2024-04-17,Jaipur,Rajasthan,18-24,Organic Search,Gold,True
+C000327,Reyansh,Verma,customer0327@example.com,2024-12-17,Pune,Maharashtra,25-34,Paid Social,Standard,True
+C000328,Reyansh,Das,customer0328@example.com,2025-12-14,Kochi,Kerala,18-24,Paid Search,Silver,True
+C000329,Ananya,Gupta,customer0329@example.com,2025-10-25,Chennai,Tamil Nadu,25-34,Direct,Silver,True
+C000330,Rohan,Nair,customer0330@example.com,2024-06-12,Ahmedabad,Gujarat,45-54,Influencer,Standard,True
+C000331,Nisha,Mehta,customer0331@example.com,2024-07-09,Delhi,Delhi,18-24,Affiliate,Gold,True
+C000332,Aarav,Roy,customer0332@example.com,2025-02-02,Kolkata,West Bengal,25-34,Organic Search,Silver,False
+C000333,Ananya,Verma,customer0333@example.com,2025-08-14,Mumbai,Maharashtra,55+,Organic Search,Standard,True
+C000334,Tara,Nair,customer0334@example.com,2025-11-17,Pune,Maharashtra,35-44,Paid Social,Standard,True
+C000335,Reyansh,Joshi,customer0335@example.com,2024-12-26,Chennai,Tamil Nadu,25-34,Direct,Silver,True
+C000336,Ishaan,Gupta,customer0336@example.com,2025-08-27,Lucknow,Uttar Pradesh,25-34,Paid Search,Standard,True
+C000337,Vivaan,Nair,customer0337@example.com,2025-12-11,Chennai,Tamil Nadu,45-54,Paid Social,Standard,True
+C000338,Priya,Roy,customer0338@example.com,2025-05-13,Delhi,Delhi,25-34,Paid Social,Standard,True
+C000339,Reyansh,Joshi,customer0339@example.com,2026-05-12,Chennai,Tamil Nadu,18-24,Direct,Gold,True
+C000340,Arjun,Nair,customer0340@example.com,2026-04-14,Hyderabad,Telangana,55+,Email,Standard,True
+C000341,Reyansh,Khan,customer0341@example.com,2026-05-10,Kochi,Kerala,25-34,Organic Search,Standard,False
+C000342,Kabir,Iyer,customer0342@example.com,2024-02-03,Pune,Maharashtra,55+,Paid Search,Silver,True
+C000343,Dev,Patel,customer0343@example.com,2025-07-16,Jaipur,Rajasthan,55+,Organic Search,Silver,False
+C000344,Diya,Verma,customer0344@example.com,2025-07-09,Chennai,Tamil Nadu,45-54,Paid Social,Platinum,True
+C000345,Saanvi,Singh,customer0345@example.com,2026-02-08,Jamshedpur,Jharkhand,18-24,Paid Social,Standard,False
+C000346,Ananya,Verma,customer0346@example.com,2026-06-05,Jaipur,Rajasthan,25-34,Organic Search,Silver,True
+C000347,Nisha,Reddy,customer0347@example.com,2025-09-16,Kochi,Kerala,55+,Organic Search,Standard,True
+C000348,Kavya,Nair,customer0348@example.com,2025-08-06,Bengaluru,Karnataka,35-44,Paid Social,Standard,False
+C000349,Samar,Singh,customer0349@example.com,2024-10-23,Pune,Maharashtra,55+,Influencer,Silver,True
+C000350,Diya,Singh,customer0350@example.com,2026-07-29,Kolkata,West Bengal,25-34,Email,Standard,True
+C000351,Saanvi,Verma,customer0351@example.com,2026-04-28,Chennai,Tamil Nadu,45-54,Paid Social,Standard,True
+C000352,Reyansh,Patel,customer0352@example.com,2025-01-19,Kolkata,West Bengal,18-24,Paid Search,Silver,True
+C000353,Tara,Das,customer0353@example.com,2025-04-10,Chennai,Tamil Nadu,55+,Organic Search,Silver,False
+C000354,Reyansh,Gupta,customer0354@example.com,2026-09-22,Kochi,Kerala,35-44,Direct,Silver,True
+C000355,Aditya,Khan,customer0355@example.com,2026-04-24,Kolkata,West Bengal,35-44,Paid Search,Standard,True
+C000356,Tara,Verma,customer0356@example.com,2025-08-02,Delhi,Delhi,35-44,Direct,Silver,True
+C000357,Reyansh,Sharma,customer0357@example.com,2026-03-13,Jamshedpur,Jharkhand,18-24,Direct,Standard,True
+C000358,Vivaan,Bose,customer0358@example.com,2024-07-26,Kolkata,West Bengal,35-44,Organic Search,Gold,True
+C000359,Kabir,Patel,customer0359@example.com,2025-01-04,Jamshedpur,Jharkhand,35-44,Email,Silver,True
+C000360,Saanvi,Mehta,customer0360@example.com,2024-11-08,Jamshedpur,Jharkhand,18-24,Email,Standard,True
+C000361,Saanvi,Nair,customer0361@example.com,2025-08-30,Delhi,Delhi,45-54,Organic Search,Silver,False
+C000362,Vivaan,Khan,customer0362@example.com,2025-12-11,Kolkata,West Bengal,18-24,Paid Search,Standard,False
+C000363,Kavya,Bose,customer0363@example.com,2024-11-16,Mumbai,Maharashtra,35-44,Organic Search,Silver,False
+C000364,Vivaan,Patel,customer0364@example.com,2025-10-18,Delhi,Delhi,55+,Paid Social,Standard,True
+C000365,Aditya,Gupta,customer0365@example.com,2026-01-09,Chennai,Tamil Nadu,25-34,Direct,Standard,True
+C000366,Ananya,Reddy,customer0366@example.com,2024-03-29,Hyderabad,Telangana,18-24,Paid Social,Standard,False
+C000367,Vivaan,Iyer,customer0367@example.com,2026-03-21,Chennai,Tamil Nadu,35-44,Email,Standard,True
+C000368,Aditi,Verma,customer0368@example.com,2025-09-14,Kochi,Kerala,18-24,Direct,Silver,True
+C000369,Dev,Iyer,customer0369@example.com,2025-09-13,Ahmedabad,Gujarat,45-54,Paid Search,Standard,False
+C000370,Arjun,Patel,customer0370@example.com,2025-05-21,Hyderabad,Telangana,25-34,Paid Social,Standard,True
+C000371,Kavya,Bose,customer0371@example.com,2026-10-07,Bengaluru,Karnataka,35-44,Organic Search,Gold,True
+C000372,Meera,Verma,customer0372@example.com,2025-07-13,Chennai,Tamil Nadu,45-54,Influencer,Silver,True
+C000373,Kabir,Iyer,customer0373@example.com,2024-01-15,Mumbai,Maharashtra,18-24,Direct,Gold,True
+C000374,Dev,Verma,customer0374@example.com,2025-10-05,Pune,Maharashtra,45-54,Paid Social,Standard,True
+C000375,Vivaan,Singh,customer0375@example.com,2025-09-22,Ahmedabad,Gujarat,18-24,Paid Search,Standard,True
+C000376,Rohan,Mehta,customer0376@example.com,2025-07-03,Delhi,Delhi,55+,Email,Silver,True
+C000377,Nisha,Roy,customer0377@example.com,2024-11-13,Mumbai,Maharashtra,25-34,Organic Search,Standard,True
+C000378,Ira,Sharma,customer0378@example.com,2025-09-18,Jaipur,Rajasthan,35-44,Email,Silver,True
+C000379,Vivaan,Roy,customer0379@example.com,2025-12-25,Bengaluru,Karnataka,18-24,Organic Search,Gold,True
+C000380,Meera,Das,customer0380@example.com,2024-09-22,Kochi,Kerala,25-34,Affiliate,Gold,False
+C000381,Aarav,Das,customer0381@example.com,2026-02-28,Mumbai,Maharashtra,45-54,Paid Search,Standard,True
+C000382,Ishaan,Khan,customer0382@example.com,2025-10-04,Lucknow,Uttar Pradesh,45-54,Paid Social,Standard,False
+C000383,Meera,Singh,customer0383@example.com,2025-01-11,Delhi,Delhi,18-24,Direct,Silver,True
+C000384,Aarav,Sharma,customer0384@example.com,2025-06-05,Kochi,Kerala,18-24,Paid Search,Standard,True
+C000385,Diya,Nair,customer0385@example.com,2024-07-02,Delhi,Delhi,45-54,Paid Search,Standard,False
+C000386,Ishaan,Joshi,customer0386@example.com,2024-10-04,Chennai,Tamil Nadu,35-44,Organic Search,Silver,True
+C000387,Dev,Sharma,customer0387@example.com,2026-04-03,Hyderabad,Telangana,45-54,Organic Search,Standard,True
+C000388,Ishaan,Nair,customer0388@example.com,2024-12-01,Pune,Maharashtra,45-54,Organic Search,Standard,True
+C000389,Ira,Iyer,customer0389@example.com,2026-01-27,Pune,Maharashtra,45-54,Paid Search,Platinum,False
+C000390,Priya,Verma,customer0390@example.com,2026-01-20,Hyderabad,Telangana,25-34,Organic Search,Gold,True
+C000391,Aarav,Das,customer0391@example.com,2024-12-20,Ahmedabad,Gujarat,18-24,Affiliate,Standard,False
+C000392,Aditya,Nair,customer0392@example.com,2024-04-16,Pune,Maharashtra,25-34,Paid Social,Platinum,False
+C000393,Kabir,Patel,customer0393@example.com,2025-12-29,Delhi,Delhi,18-24,Direct,Gold,True
+C000394,Kavya,Khan,customer0394@example.com,2026-07-06,Kochi,Kerala,18-24,Paid Social,Standard,True
+C000395,Samar,Joshi,customer0395@example.com,2024-03-17,Kolkata,West Bengal,18-24,Paid Social,Platinum,True
+C000396,Rohan,Bose,customer0396@example.com,2026-05-21,Pune,Maharashtra,45-54,Email,Silver,True
+C000397,Ishaan,Iyer,customer0397@example.com,2024-08-27,Pune,Maharashtra,25-34,Affiliate,Standard,True
+C000398,Reyansh,Das,customer0398@example.com,2025-04-05,Delhi,Delhi,45-54,Organic Search,Standard,False
+C000399,Reyansh,Singh,customer0399@example.com,2024-11-11,Jaipur,Rajasthan,18-24,Organic Search,Silver,True
+C000400,Ira,Sharma,customer0400@example.com,2025-12-14,Kochi,Kerala,25-34,Direct,Standard,True
+C000401,Kavya,Mehta,customer0401@example.com,2026-09-18,Hyderabad,Telangana,55+,Organic Search,Standard,False
+C000402,Arjun,Pillai,customer0402@example.com,2024-02-01,Delhi,Delhi,45-54,Paid Social,Standard,True
+C000403,Vivaan,Patel,customer0403@example.com,2026-04-03,Mumbai,Maharashtra,18-24,Organic Search,Silver,True
+C000404,Arjun,Das,customer0404@example.com,2026-04-23,Hyderabad,Telangana,18-24,Paid Social,Standard,False
+C000405,Aditya,Bose,customer0405@example.com,2024-03-07,Bengaluru,Karnataka,45-54,Direct,Standard,False
+C000406,Diya,Khan,customer0406@example.com,2024-05-05,Chennai,Tamil Nadu,18-24,Organic Search,Standard,False
+C000407,Aarav,Mehta,customer0407@example.com,2025-05-23,Kolkata,West Bengal,45-54,Organic Search,Standard,True
+C000408,Vivaan,Sharma,customer0408@example.com,2025-04-01,Pune,Maharashtra,55+,Paid Social,Standard,True
+C000409,Priya,Khan,customer0409@example.com,2026-06-22,Kolkata,West Bengal,18-24,Organic Search,Standard,True
+C000410,Dev,Iyer,customer0410@example.com,2026-06-24,Jamshedpur,Jharkhand,55+,Direct,Platinum,False
+C000411,Priya,Verma,customer0411@example.com,2025-05-06,Chennai,Tamil Nadu,45-54,Paid Search,Standard,True
+C000412,Aarav,Das,customer0412@example.com,2024-07-03,Pune,Maharashtra,55+,Organic Search,Gold,False
+C000413,Tara,Nair,customer0413@example.com,2026-04-08,Bengaluru,Karnataka,35-44,Affiliate,Platinum,False
+C000414,Saanvi,Singh,customer0414@example.com,2024-09-10,Mumbai,Maharashtra,55+,Direct,Gold,True
+C000415,Arjun,Das,customer0415@example.com,2025-08-12,Hyderabad,Telangana,25-34,Organic Search,Standard,False
+C000416,Samar,Sharma,customer0416@example.com,2025-01-02,Kochi,Kerala,35-44,Influencer,Standard,True
+C000417,Tara,Nair,customer0417@example.com,2026-05-06,Hyderabad,Telangana,35-44,Organic Search,Standard,True
+C000418,Aarav,Nair,customer0418@example.com,2024-08-12,Lucknow,Uttar Pradesh,45-54,Organic Search,Gold,True
+C000419,Meera,Bose,customer0419@example.com,2024-12-14,Delhi,Delhi,35-44,Organic Search,Standard,True
+C000420,Ananya,Pillai,customer0420@example.com,2026-03-03,Delhi,Delhi,55+,Direct,Platinum,True
+C000421,Samar,Patel,customer0421@example.com,2025-02-09,Jamshedpur,Jharkhand,35-44,Paid Search,Standard,True
+C000422,Tara,Gupta,customer0422@example.com,2026-03-21,Kolkata,West Bengal,35-44,Organic Search,Platinum,True
+C000423,Kavya,Iyer,customer0423@example.com,2026-03-16,Lucknow,Uttar Pradesh,55+,Direct,Standard,False
+C000424,Meera,Roy,customer0424@example.com,2024-05-10,Pune,Maharashtra,18-24,Influencer,Gold,True
+C000425,Meera,Joshi,customer0425@example.com,2024-02-03,Lucknow,Uttar Pradesh,35-44,Direct,Platinum,True
+C000426,Tara,Reddy,customer0426@example.com,2024-04-16,Lucknow,Uttar Pradesh,35-44,Affiliate,Standard,False
+C000427,Ishaan,Pillai,customer0427@example.com,2025-10-13,Delhi,Delhi,35-44,Paid Social,Standard,True
+C000428,Kabir,Verma,customer0428@example.com,2024-12-24,Mumbai,Maharashtra,18-24,Affiliate,Standard,True
+C000429,Meera,Bose,customer0429@example.com,2026-09-19,Kolkata,West Bengal,45-54,Paid Social,Standard,True
+C000430,Tara,Verma,customer0430@example.com,2026-04-28,Mumbai,Maharashtra,55+,Email,Silver,True
+C000431,Diya,Singh,customer0431@example.com,2026-03-29,Mumbai,Maharashtra,18-24,Paid Search,Gold,True
+C000432,Arjun,Reddy,customer0432@example.com,2026-06-28,Delhi,Delhi,18-24,Paid Social,Gold,True
+C000433,Ira,Bose,customer0433@example.com,2026-10-05,Lucknow,Uttar Pradesh,45-54,Email,Standard,True
+C000434,Nisha,Reddy,customer0434@example.com,2026-06-30,Lucknow,Uttar Pradesh,18-24,Organic Search,Standard,True
+C000435,Priya,Singh,customer0435@example.com,2025-07-21,Kochi,Kerala,35-44,Paid Search,Standard,True
+C000436,Tara,Reddy,customer0436@example.com,2026-05-10,Ahmedabad,Gujarat,18-24,Paid Search,Standard,True
+C000437,Ira,Khan,customer0437@example.com,2025-10-02,Jamshedpur,Jharkhand,25-34,Organic Search,Standard,True
+C000438,Ananya,Singh,customer0438@example.com,2025-04-29,Mumbai,Maharashtra,45-54,Paid Social,Gold,True
+C000439,Arjun,Reddy,customer0439@example.com,2025-07-11,Jamshedpur,Jharkhand,35-44,Direct,Standard,True
+C000440,Reyansh,Singh,customer0440@example.com,2025-03-26,Pune,Maharashtra,25-34,Direct,Standard,True
+C000441,Ananya,Patel,customer0441@example.com,2025-11-14,Kochi,Kerala,35-44,Direct,Standard,False
+C000442,Diya,Pillai,customer0442@example.com,2025-07-20,Hyderabad,Telangana,45-54,Direct,Standard,True
+C000443,Saanvi,Khan,customer0443@example.com,2025-08-09,Jaipur,Rajasthan,35-44,Organic Search,Gold,True
+C000444,Dev,Verma,customer0444@example.com,2025-08-07,Ahmedabad,Gujarat,55+,Email,Silver,True
+C000445,Meera,Iyer,customer0445@example.com,2024-06-26,Jaipur,Rajasthan,25-34,Organic Search,Standard,False
+C000446,Vivaan,Pillai,customer0446@example.com,2024-07-25,Kolkata,West Bengal,55+,Paid Search,Gold,False
+C000447,Arjun,Nair,customer0447@example.com,2024-03-30,Mumbai,Maharashtra,45-54,Paid Social,Gold,True
+C000448,Ira,Joshi,customer0448@example.com,2026-03-16,Bengaluru,Karnataka,55+,Affiliate,Standard,True
+C000449,Samar,Verma,customer0449@example.com,2025-08-25,Lucknow,Uttar Pradesh,18-24,Direct,Standard,True
+C000450,Priya,Bose,customer0450@example.com,2026-06-07,Pune,Maharashtra,35-44,Direct,Standard,True
+C000451,Tara,Sharma,customer0451@example.com,2025-09-15,Lucknow,Uttar Pradesh,25-34,Paid Search,Standard,True
+C000452,Diya,Mehta,customer0452@example.com,2025-02-15,Kochi,Kerala,35-44,Email,Standard,True
+C000453,Kavya,Sharma,customer0453@example.com,2026-07-07,Pune,Maharashtra,35-44,Direct,Standard,True
+C000454,Ananya,Pillai,customer0454@example.com,2026-05-28,Jaipur,Rajasthan,25-34,Organic Search,Platinum,True
+C000455,Nisha,Joshi,customer0455@example.com,2024-10-02,Chennai,Tamil Nadu,18-24,Organic Search,Standard,False
+C000456,Dev,Pillai,customer0456@example.com,2025-05-11,Kochi,Kerala,35-44,Direct,Standard,True
+C000457,Dev,Mehta,customer0457@example.com,2025-12-27,Pune,Maharashtra,25-34,Affiliate,Standard,True
+C000458,Aditya,Pillai,customer0458@example.com,2024-07-16,Delhi,Delhi,18-24,Paid Search,Standard,False
+C000459,Kabir,Das,customer0459@example.com,2024-07-22,Kochi,Kerala,45-54,Paid Social,Silver,True
+C000460,Kavya,Khan,customer0460@example.com,2024-09-04,Bengaluru,Karnataka,55+,Paid Social,Platinum,True
+C000461,Kavya,Reddy,customer0461@example.com,2024-12-24,Ahmedabad,Gujarat,35-44,Affiliate,Silver,True
+C000462,Meera,Pillai,customer0462@example.com,2024-02-20,Kolkata,West Bengal,55+,Affiliate,Standard,True
+C000463,Aditya,Singh,customer0463@example.com,2025-11-24,Hyderabad,Telangana,45-54,Paid Social,Gold,False
+C000464,Tara,Bose,customer0464@example.com,2024-01-10,Jamshedpur,Jharkhand,25-34,Email,Standard,True
+C000465,Aditi,Roy,customer0465@example.com,2025-09-14,Pune,Maharashtra,35-44,Paid Social,Standard,True
+C000466,Reyansh,Singh,customer0466@example.com,2024-08-11,Pune,Maharashtra,55+,Direct,Standard,True
+C000467,Kavya,Nair,customer0467@example.com,2025-11-09,Ahmedabad,Gujarat,55+,Paid Social,Standard,True
+C000468,Kabir,Gupta,customer0468@example.com,2024-12-10,Mumbai,Maharashtra,35-44,Direct,Standard,True
+C000469,Aditya,Reddy,customer0469@example.com,2024-11-01,Jamshedpur,Jharkhand,55+,Affiliate,Gold,False
+C000470,Rohan,Gupta,customer0470@example.com,2025-02-17,Lucknow,Uttar Pradesh,25-34,Affiliate,Silver,False
+C000471,Nisha,Mehta,customer0471@example.com,2026-07-17,Pune,Maharashtra,45-54,Affiliate,Standard,False
+C000472,Saanvi,Gupta,customer0472@example.com,2024-12-17,Hyderabad,Telangana,55+,Email,Standard,False
+C000473,Aditi,Pillai,customer0473@example.com,2025-06-03,Chennai,Tamil Nadu,25-34,Direct,Gold,True
+C000474,Vivaan,Roy,customer0474@example.com,2025-04-27,Mumbai,Maharashtra,35-44,Affiliate,Standard,False
+C000475,Rohan,Gupta,customer0475@example.com,2026-07-10,Jamshedpur,Jharkhand,18-24,Paid Search,Standard,False
+C000476,Rohan,Das,customer0476@example.com,2026-03-18,Kolkata,West Bengal,35-44,Paid Social,Standard,True
+C000477,Samar,Joshi,customer0477@example.com,2026-06-06,Bengaluru,Karnataka,55+,Organic Search,Gold,True
+C000478,Dev,Singh,customer0478@example.com,2025-01-25,Jamshedpur,Jharkhand,45-54,Organic Search,Gold,True
+C000479,Nisha,Joshi,customer0479@example.com,2024-12-16,Hyderabad,Telangana,45-54,Organic Search,Gold,True
+C000480,Rohan,Gupta,customer0480@example.com,2025-05-14,Mumbai,Maharashtra,25-34,Paid Search,Standard,True
+C000481,Meera,Joshi,customer0481@example.com,2026-02-18,Hyderabad,Telangana,25-34,Paid Social,Silver,True
+C000482,Nisha,Mehta,customer0482@example.com,2025-03-20,Lucknow,Uttar Pradesh,45-54,Influencer,Standard,True
+C000483,Kavya,Sharma,customer0483@example.com,2026-01-18,Hyderabad,Telangana,35-44,Affiliate,Standard,True
+C000484,Saanvi,Iyer,customer0484@example.com,2025-10-03,Bengaluru,Karnataka,35-44,Paid Search,Standard,True
+C000485,Ishaan,Pillai,customer0485@example.com,2024-06-20,Pune,Maharashtra,18-24,Paid Search,Standard,False
+C000486,Rohan,Mehta,customer0486@example.com,2025-06-20,Lucknow,Uttar Pradesh,25-34,Paid Search,Gold,True
+C000487,Arjun,Sharma,customer0487@example.com,2024-06-17,Hyderabad,Telangana,25-34,Paid Search,Platinum,True
+C000488,Dev,Reddy,customer0488@example.com,2025-08-26,Bengaluru,Karnataka,18-24,Paid Search,Silver,True
+C000489,Priya,Joshi,customer0489@example.com,2024-09-18,Jamshedpur,Jharkhand,18-24,Paid Social,Standard,True
+C000490,Ananya,Mehta,customer0490@example.com,2024-02-19,Bengaluru,Karnataka,45-54,Paid Search,Standard,True
+C000491,Aarav,Singh,customer0491@example.com,2024-07-29,Delhi,Delhi,45-54,Email,Silver,True
+C000492,Vivaan,Mehta,customer0492@example.com,2025-12-18,Lucknow,Uttar Pradesh,18-24,Paid Social,Standard,True
+C000493,Aditya,Joshi,customer0493@example.com,2025-05-24,Mumbai,Maharashtra,25-34,Affiliate,Silver,False
+C000494,Nisha,Singh,customer0494@example.com,2025-12-21,Chennai,Tamil Nadu,25-34,Organic Search,Standard,True
+C000495,Saanvi,Sharma,customer0495@example.com,2024-12-04,Jaipur,Rajasthan,18-24,Email,Gold,False
+C000496,Vivaan,Patel,customer0496@example.com,2025-05-20,Jamshedpur,Jharkhand,55+,Organic Search,Silver,False
+C000497,Reyansh,Singh,customer0497@example.com,2024-08-24,Jamshedpur,Jharkhand,35-44,Paid Social,Standard,True
+C000498,Aditi,Das,customer0498@example.com,2026-05-22,Bengaluru,Karnataka,35-44,Paid Social,Standard,False
+C000499,Vivaan,Gupta,customer0499@example.com,2024-01-10,Bengaluru,Karnataka,25-34,Paid Search,Gold,False
+C000500,Ishaan,Das,customer0500@example.com,2026-06-18,Pune,Maharashtra,35-44,Organic Search,Standard,False
+C000501,Arjun,Roy,customer0501@example.com,2026-05-05,Pune,Maharashtra,45-54,Direct,Silver,False
+C000502,Diya,Pillai,customer0502@example.com,2024-05-15,Mumbai,Maharashtra,25-34,Organic Search,Gold,True
+C000503,Reyansh,Reddy,customer0503@example.com,2025-11-25,Lucknow,Uttar Pradesh,55+,Paid Search,Standard,True
+C000504,Vivaan,Khan,customer0504@example.com,2026-06-20,Jamshedpur,Jharkhand,45-54,Organic Search,Standard,True
+C000505,Rohan,Sharma,customer0505@example.com,2025-11-01,Pune,Maharashtra,55+,Affiliate,Standard,True
+C000506,Rohan,Nair,customer0506@example.com,2026-06-13,Jamshedpur,Jharkhand,55+,Email,Standard,True
+C000507,Tara,Das,customer0507@example.com,2024-09-11,Kochi,Kerala,45-54,Organic Search,Silver,False
+C000508,Aarav,Gupta,customer0508@example.com,2024-02-25,Lucknow,Uttar Pradesh,25-34,Paid Social,Standard,True
+C000509,Tara,Das,customer0509@example.com,2024-03-17,Delhi,Delhi,25-34,Paid Search,Standard,True
+C000510,Arjun,Mehta,customer0510@example.com,2025-10-20,Ahmedabad,Gujarat,25-34,Organic Search,Standard,True
+C000511,Tara,Khan,customer0511@example.com,2026-05-27,Mumbai,Maharashtra,35-44,Organic Search,Standard,True
+C000512,Nisha,Sharma,customer0512@example.com,2025-02-17,Mumbai,Maharashtra,55+,Paid Social,Silver,False
+C000513,Aditi,Bose,customer0513@example.com,2025-10-14,Lucknow,Uttar Pradesh,55+,Paid Social,Silver,True
+C000514,Diya,Pillai,customer0514@example.com,2025-01-07,Chennai,Tamil Nadu,25-34,Direct,Standard,False
+C000515,Kavya,Roy,customer0515@example.com,2025-04-29,Lucknow,Uttar Pradesh,45-54,Organic Search,Silver,True
+C000516,Aditi,Nair,customer0516@example.com,2024-12-29,Chennai,Tamil Nadu,55+,Paid Search,Standard,False
+C000517,Nisha,Patel,customer0517@example.com,2024-05-23,Jaipur,Rajasthan,35-44,Paid Social,Standard,False
+C000518,Reyansh,Pillai,customer0518@example.com,2024-08-08,Kolkata,West Bengal,25-34,Affiliate,Standard,True
+C000519,Samar,Patel,customer0519@example.com,2026-05-07,Jamshedpur,Jharkhand,45-54,Paid Social,Standard,True
+C000520,Dev,Roy,customer0520@example.com,2024-01-05,Jaipur,Rajasthan,18-24,Paid Social,Standard,True
+C000521,Meera,Roy,customer0521@example.com,2026-03-10,Ahmedabad,Gujarat,55+,Organic Search,Silver,True
+C000522,Ira,Bose,customer0522@example.com,2025-09-06,Jamshedpur,Jharkhand,35-44,Paid Social,Standard,False
+C000523,Saanvi,Singh,customer0523@example.com,2026-02-19,Kochi,Kerala,45-54,Influencer,Platinum,True
+C000524,Nisha,Joshi,customer0524@example.com,2024-05-21,Delhi,Delhi,55+,Paid Search,Silver,False
+C000525,Priya,Gupta,customer0525@example.com,2026-01-24,Kochi,Kerala,25-34,Organic Search,Silver,True
+C000526,Vivaan,Roy,customer0526@example.com,2026-08-01,Chennai,Tamil Nadu,25-34,Paid Social,Silver,True
+C000527,Kavya,Nair,customer0527@example.com,2026-02-18,Mumbai,Maharashtra,45-54,Paid Social,Gold,True
+C000528,Priya,Singh,customer0528@example.com,2026-02-04,Jamshedpur,Jharkhand,45-54,Direct,Standard,True
+C000529,Diya,Iyer,customer0529@example.com,2024-02-24,Delhi,Delhi,35-44,Affiliate,Standard,True
+C000530,Diya,Roy,customer0530@example.com,2024-05-29,Pune,Maharashtra,35-44,Organic Search,Standard,True
+C000531,Ira,Pillai,customer0531@example.com,2024-04-14,Jaipur,Rajasthan,55+,Direct,Silver,True
+C000532,Aditi,Roy,customer0532@example.com,2025-06-07,Hyderabad,Telangana,18-24,Direct,Standard,False
+C000533,Priya,Sharma,customer0533@example.com,2024-11-16,Jamshedpur,Jharkhand,18-24,Affiliate,Standard,False
+C000534,Saanvi,Bose,customer0534@example.com,2026-04-29,Jaipur,Rajasthan,35-44,Affiliate,Standard,True
+C000535,Aditya,Singh,customer0535@example.com,2026-09-14,Kochi,Kerala,45-54,Organic Search,Silver,True
+C000536,Dev,Patel,customer0536@example.com,2026-01-22,Delhi,Delhi,45-54,Organic Search,Standard,True
+C000537,Kabir,Sharma,customer0537@example.com,2025-08-21,Delhi,Delhi,35-44,Paid Social,Gold,True
+C000538,Diya,Verma,customer0538@example.com,2025-09-03,Chennai,Tamil Nadu,55+,Direct,Standard,False
+C000539,Ishaan,Verma,customer0539@example.com,2025-01-01,Ahmedabad,Gujarat,35-44,Paid Social,Gold,True
+C000540,Nisha,Nair,customer0540@example.com,2024-06-12,Ahmedabad,Gujarat,55+,Paid Search,Standard,False
+C000541,Rohan,Das,customer0541@example.com,2024-12-05,Jamshedpur,Jharkhand,35-44,Organic Search,Silver,True
+C000542,Aarav,Patel,customer0542@example.com,2026-04-23,Ahmedabad,Gujarat,35-44,Paid Social,Gold,True
+C000543,Diya,Gupta,customer0543@example.com,2024-09-06,Lucknow,Uttar Pradesh,35-44,Paid Search,Silver,True
+C000544,Aditi,Sharma,customer0544@example.com,2025-07-07,Pune,Maharashtra,55+,Direct,Standard,False
+C000545,Diya,Singh,customer0545@example.com,2025-05-13,Jaipur,Rajasthan,25-34,Paid Search,Standard,True
+C000546,Aarav,Gupta,customer0546@example.com,2025-06-30,Ahmedabad,Gujarat,18-24,Organic Search,Silver,True
+C000547,Ananya,Iyer,customer0547@example.com,2025-03-10,Jamshedpur,Jharkhand,55+,Direct,Gold,False
+C000548,Ishaan,Roy,customer0548@example.com,2025-10-24,Kolkata,West Bengal,25-34,Organic Search,Silver,True
+C000549,Meera,Verma,customer0549@example.com,2024-02-25,Mumbai,Maharashtra,35-44,Paid Social,Standard,True
+C000550,Arjun,Khan,customer0550@example.com,2025-02-21,Pune,Maharashtra,45-54,Paid Social,Standard,True
+C000551,Ira,Patel,customer0551@example.com,2024-01-07,Ahmedabad,Gujarat,55+,Organic Search,Gold,True
+C000552,Aditi,Verma,customer0552@example.com,2024-04-18,Ahmedabad,Gujarat,35-44,Paid Social,Standard,False
+C000553,Aarav,Khan,customer0553@example.com,2025-02-08,Kolkata,West Bengal,25-34,Paid Social,Standard,True
+C000554,Vivaan,Singh,customer0554@example.com,2024-10-29,Ahmedabad,Gujarat,35-44,Influencer,Standard,False
+C000555,Diya,Sharma,customer0555@example.com,2024-05-06,Delhi,Delhi,55+,Paid Social,Standard,False
+C000556,Kavya,Iyer,customer0556@example.com,2024-08-03,Pune,Maharashtra,45-54,Direct,Gold,True
+C000557,Ira,Pillai,customer0557@example.com,2024-08-14,Delhi,Delhi,35-44,Organic Search,Standard,False
+C000558,Priya,Khan,customer0558@example.com,2026-05-21,Bengaluru,Karnataka,55+,Organic Search,Silver,True
+C000559,Samar,Khan,customer0559@example.com,2026-01-13,Hyderabad,Telangana,35-44,Paid Search,Silver,True
+C000560,Ishaan,Bose,customer0560@example.com,2025-09-26,Pune,Maharashtra,25-34,Paid Search,Standard,True
+C000561,Samar,Reddy,customer0561@example.com,2025-12-11,Pune,Maharashtra,55+,Paid Social,Silver,False
+C000562,Rohan,Iyer,customer0562@example.com,2024-01-05,Delhi,Delhi,25-34,Affiliate,Silver,True
+C000563,Rohan,Bose,customer0563@example.com,2024-05-17,Chennai,Tamil Nadu,45-54,Paid Social,Standard,True
+C000564,Meera,Gupta,customer0564@example.com,2024-04-21,Ahmedabad,Gujarat,55+,Organic Search,Standard,False
+C000565,Kabir,Roy,customer0565@example.com,2024-07-20,Ahmedabad,Gujarat,18-24,Affiliate,Gold,False
+C000566,Samar,Joshi,customer0566@example.com,2024-02-01,Jamshedpur,Jharkhand,45-54,Affiliate,Standard,True
+C000567,Priya,Khan,customer0567@example.com,2025-07-10,Pune,Maharashtra,25-34,Paid Search,Standard,False
+C000568,Aditi,Reddy,customer0568@example.com,2026-05-27,Kochi,Kerala,45-54,Paid Social,Standard,True
+C000569,Saanvi,Pillai,customer0569@example.com,2025-11-09,Bengaluru,Karnataka,55+,Email,Silver,True
+C000570,Samar,Joshi,customer0570@example.com,2024-07-02,Delhi,Delhi,25-34,Affiliate,Standard,True
+C000571,Tara,Iyer,customer0571@example.com,2026-02-18,Hyderabad,Telangana,18-24,Paid Search,Standard,True
+C000572,Kavya,Mehta,customer0572@example.com,2026-07-18,Ahmedabad,Gujarat,45-54,Direct,Gold,True
+C000573,Ananya,Roy,customer0573@example.com,2024-11-27,Jamshedpur,Jharkhand,55+,Email,Standard,False
+C000574,Samar,Reddy,customer0574@example.com,2025-07-11,Lucknow,Uttar Pradesh,45-54,Email,Standard,True
+C000575,Kabir,Mehta,customer0575@example.com,2025-06-13,Mumbai,Maharashtra,25-34,Paid Social,Standard,False
+C000576,Tara,Bose,customer0576@example.com,2026-03-22,Jaipur,Rajasthan,55+,Organic Search,Gold,True
+C000577,Dev,Gupta,customer0577@example.com,2024-03-19,Hyderabad,Telangana,35-44,Organic Search,Standard,True
+C000578,Ananya,Gupta,customer0578@example.com,2026-04-16,Kochi,Kerala,25-34,Paid Social,Standard,True
+C000579,Tara,Iyer,customer0579@example.com,2025-05-05,Jamshedpur,Jharkhand,55+,Organic Search,Silver,True
+C000580,Samar,Joshi,customer0580@example.com,2024-05-10,Bengaluru,Karnataka,25-34,Organic Search,Standard,False
+C000581,Meera,Singh,customer0581@example.com,2024-02-27,Delhi,Delhi,25-34,Paid Social,Standard,False
+C000582,Aditi,Patel,customer0582@example.com,2024-01-20,Jamshedpur,Jharkhand,25-34,Paid Social,Platinum,False
+C000583,Nisha,Joshi,customer0583@example.com,2024-08-12,Delhi,Delhi,25-34,Direct,Silver,True
+C000584,Kabir,Reddy,customer0584@example.com,2025-06-07,Jamshedpur,Jharkhand,35-44,Direct,Standard,True
+C000585,Vivaan,Patel,customer0585@example.com,2025-01-29,Kolkata,West Bengal,18-24,Organic Search,Gold,True
+C000586,Vivaan,Joshi,customer0586@example.com,2026-04-26,Kolkata,West Bengal,18-24,Organic Search,Gold,True
+C000587,Ananya,Patel,customer0587@example.com,2025-05-30,Ahmedabad,Gujarat,45-54,Email,Gold,True
+C000588,Nisha,Nair,customer0588@example.com,2026-07-07,Bengaluru,Karnataka,45-54,Paid Search,Standard,True
+C000589,Tara,Verma,customer0589@example.com,2026-08-18,Hyderabad,Telangana,45-54,Paid Search,Silver,False
+C000590,Ananya,Mehta,customer0590@example.com,2025-08-12,Kochi,Kerala,25-34,Paid Search,Silver,False
+C000591,Ira,Bose,customer0591@example.com,2024-10-17,Mumbai,Maharashtra,55+,Paid Search,Standard,True
+C000592,Dev,Patel,customer0592@example.com,2025-08-14,Bengaluru,Karnataka,55+,Organic Search,Silver,True
+C000593,Kavya,Patel,customer0593@example.com,2025-02-22,Chennai,Tamil Nadu,25-34,Paid Social,Standard,True
+C000594,Samar,Das,customer0594@example.com,2025-03-09,Ahmedabad,Gujarat,55+,Paid Search,Silver,False
+C000595,Priya,Khan,customer0595@example.com,2025-07-19,Kolkata,West Bengal,25-34,Paid Search,Standard,True
+C000596,Kavya,Verma,customer0596@example.com,2025-08-14,Pune,Maharashtra,45-54,Affiliate,Gold,True
+C000597,Reyansh,Verma,customer0597@example.com,2024-08-23,Kochi,Kerala,25-34,Organic Search,Standard,False
+C000598,Diya,Reddy,customer0598@example.com,2025-09-20,Ahmedabad,Gujarat,45-54,Influencer,Standard,True
+C000599,Ira,Mehta,customer0599@example.com,2025-04-27,Delhi,Delhi,18-24,Organic Search,Standard,True
+C000600,Arjun,Bose,customer0600@example.com,2026-01-11,Bengaluru,Karnataka,45-54,Paid Social,Standard,True
+C000601,Meera,Gupta,customer0601@example.com,2024-02-28,Lucknow,Uttar Pradesh,45-54,Paid Social,Standard,True
+C000602,Aditya,Sharma,customer0602@example.com,2024-10-19,Ahmedabad,Gujarat,55+,Paid Social,Silver,True
+C000603,Kavya,Iyer,customer0603@example.com,2024-02-06,Jamshedpur,Jharkhand,18-24,Influencer,Standard,True
+C000604,Arjun,Mehta,customer0604@example.com,2024-12-27,Kolkata,West Bengal,55+,Organic Search,Standard,True
+C000605,Aditi,Roy,customer0605@example.com,2025-07-16,Mumbai,Maharashtra,55+,Direct,Standard,False
+C000606,Ira,Iyer,customer0606@example.com,2024-08-19,Pune,Maharashtra,45-54,Direct,Standard,True
+C000607,Ananya,Nair,customer0607@example.com,2025-06-02,Kolkata,West Bengal,18-24,Paid Social,Standard,True
+C000608,Kabir,Bose,customer0608@example.com,2026-09-06,Ahmedabad,Gujarat,55+,Direct,Standard,True
+C000609,Tara,Verma,customer0609@example.com,2025-07-30,Kolkata,West Bengal,25-34,Affiliate,Platinum,True
+C000610,Samar,Pillai,customer0610@example.com,2026-07-07,Jaipur,Rajasthan,18-24,Paid Social,Standard,True
+C000611,Saanvi,Verma,customer0611@example.com,2025-11-24,Hyderabad,Telangana,35-44,Paid Social,Standard,True
+C000612,Kabir,Iyer,customer0612@example.com,2026-05-02,Kochi,Kerala,35-44,Organic Search,Silver,False
+C000613,Meera,Khan,customer0613@example.com,2025-07-21,Mumbai,Maharashtra,35-44,Paid Search,Gold,True
+C000614,Aditya,Khan,customer0614@example.com,2025-11-30,Kochi,Kerala,25-34,Paid Search,Standard,True
+C000615,Saanvi,Pillai,customer0615@example.com,2024-07-26,Hyderabad,Telangana,55+,Paid Search,Silver,True
+C000616,Tara,Joshi,customer0616@example.com,2025-11-23,Mumbai,Maharashtra,18-24,Affiliate,Standard,True
+C000617,Ira,Das,customer0617@example.com,2025-01-15,Jaipur,Rajasthan,45-54,Direct,Gold,True
+C000618,Meera,Verma,customer0618@example.com,2025-05-17,Pune,Maharashtra,55+,Paid Search,Standard,True
+C000619,Nisha,Khan,customer0619@example.com,2025-06-22,Bengaluru,Karnataka,55+,Organic Search,Standard,False
+C000620,Ananya,Roy,customer0620@example.com,2025-04-13,Delhi,Delhi,55+,Paid Social,Silver,True
+C000621,Samar,Patel,customer0621@example.com,2025-01-23,Hyderabad,Telangana,35-44,Paid Search,Gold,True
+C000622,Kabir,Khan,customer0622@example.com,2024-08-30,Pune,Maharashtra,55+,Paid Search,Standard,True
+C000623,Kavya,Das,customer0623@example.com,2025-12-18,Kolkata,West Bengal,45-54,Paid Search,Standard,True
+C000624,Saanvi,Pillai,customer0624@example.com,2025-12-03,Lucknow,Uttar Pradesh,18-24,Affiliate,Silver,True
+C000625,Vivaan,Verma,customer0625@example.com,2024-07-19,Kolkata,West Bengal,25-34,Paid Social,Standard,True
+C000626,Dev,Nair,customer0626@example.com,2026-10-16,Delhi,Delhi,35-44,Affiliate,Standard,True
+C000627,Arjun,Patel,customer0627@example.com,2024-02-18,Lucknow,Uttar Pradesh,25-34,Organic Search,Silver,True
+C000628,Reyansh,Roy,customer0628@example.com,2024-04-08,Jamshedpur,Jharkhand,35-44,Paid Search,Standard,True
+C000629,Aarav,Mehta,customer0629@example.com,2024-12-18,Pune,Maharashtra,18-24,Paid Search,Silver,True
+C000630,Priya,Reddy,customer0630@example.com,2025-08-12,Lucknow,Uttar Pradesh,35-44,Paid Search,Silver,True
+C000631,Ishaan,Mehta,customer0631@example.com,2025-04-02,Kochi,Kerala,55+,Paid Search,Silver,True
+C000632,Rohan,Mehta,customer0632@example.com,2025-10-17,Delhi,Delhi,55+,Paid Social,Gold,True
+C000633,Saanvi,Das,customer0633@example.com,2024-12-17,Delhi,Delhi,35-44,Email,Silver,True
+C000634,Reyansh,Verma,customer0634@example.com,2024-10-04,Kolkata,West Bengal,35-44,Affiliate,Standard,True
+C000635,Aarav,Reddy,customer0635@example.com,2024-07-07,Delhi,Delhi,25-34,Email,Gold,True
+C000636,Meera,Mehta,customer0636@example.com,2024-08-03,Mumbai,Maharashtra,18-24,Organic Search,Gold,True
+C000637,Arjun,Nair,customer0637@example.com,2024-01-27,Bengaluru,Karnataka,18-24,Organic Search,Standard,True
+C000638,Saanvi,Iyer,customer0638@example.com,2024-11-12,Kolkata,West Bengal,35-44,Paid Social,Standard,True
+C000639,Diya,Gupta,customer0639@example.com,2024-01-30,Delhi,Delhi,35-44,Direct,Standard,True
+C000640,Kabir,Nair,customer0640@example.com,2026-08-15,Ahmedabad,Gujarat,45-54,Organic Search,Gold,True
+C000641,Reyansh,Gupta,customer0641@example.com,2025-09-03,Lucknow,Uttar Pradesh,55+,Paid Social,Silver,True
+C000642,Priya,Iyer,customer0642@example.com,2025-05-08,Chennai,Tamil Nadu,18-24,Paid Social,Standard,True
+C000643,Aarav,Nair,customer0643@example.com,2024-01-11,Pune,Maharashtra,25-34,Paid Search,Standard,True
+C000644,Tara,Singh,customer0644@example.com,2026-08-27,Jaipur,Rajasthan,18-24,Affiliate,Silver,True
+C000645,Kavya,Iyer,customer0645@example.com,2025-07-15,Bengaluru,Karnataka,45-54,Direct,Standard,True
+C000646,Arjun,Pillai,customer0646@example.com,2026-01-24,Kochi,Kerala,45-54,Paid Search,Standard,True
+C000647,Ira,Verma,customer0647@example.com,2026-02-21,Ahmedabad,Gujarat,35-44,Paid Search,Silver,False
+C000648,Ishaan,Reddy,customer0648@example.com,2024-07-11,Kolkata,West Bengal,25-34,Paid Search,Silver,True
+C000649,Ira,Khan,customer0649@example.com,2025-12-18,Pune,Maharashtra,25-34,Paid Search,Standard,False
+C000650,Ananya,Singh,customer0650@example.com,2024-07-09,Bengaluru,Karnataka,35-44,Organic Search,Standard,True
+C000651,Aarav,Khan,customer0651@example.com,2024-06-03,Mumbai,Maharashtra,25-34,Paid Search,Standard,False
+C000652,Diya,Das,customer0652@example.com,2025-04-19,Chennai,Tamil Nadu,18-24,Direct,Gold,True
+C000653,Priya,Khan,customer0653@example.com,2024-03-14,Kolkata,West Bengal,25-34,Organic Search,Gold,False
+C000654,Saanvi,Mehta,customer0654@example.com,2024-05-04,Bengaluru,Karnataka,45-54,Paid Search,Platinum,True
+C000655,Ananya,Nair,customer0655@example.com,2026-02-28,Kochi,Kerala,25-34,Paid Social,Silver,True
+C000656,Diya,Roy,customer0656@example.com,2024-06-11,Chennai,Tamil Nadu,55+,Paid Social,Standard,True
+C000657,Diya,Pillai,customer0657@example.com,2025-01-04,Hyderabad,Telangana,25-34,Influencer,Standard,True
+C000658,Kabir,Joshi,customer0658@example.com,2024-06-20,Bengaluru,Karnataka,18-24,Paid Search,Standard,False
+C000659,Tara,Roy,customer0659@example.com,2026-03-13,Lucknow,Uttar Pradesh,55+,Organic Search,Silver,True
+C000660,Ira,Das,customer0660@example.com,2024-04-03,Jaipur,Rajasthan,18-24,Organic Search,Silver,True
+C000661,Tara,Iyer,customer0661@example.com,2024-05-08,Mumbai,Maharashtra,35-44,Influencer,Silver,False
+C000662,Aditya,Sharma,customer0662@example.com,2026-01-20,Jaipur,Rajasthan,45-54,Paid Search,Standard,False
+C000663,Reyansh,Nair,customer0663@example.com,2025-12-24,Jaipur,Rajasthan,35-44,Paid Social,Standard,True
+C000664,Rohan,Roy,customer0664@example.com,2024-12-22,Ahmedabad,Gujarat,45-54,Paid Search,Silver,False
+C000665,Ishaan,Nair,customer0665@example.com,2024-06-13,Ahmedabad,Gujarat,25-34,Paid Social,Silver,True
+C000666,Dev,Mehta,customer0666@example.com,2024-01-01,Jaipur,Rajasthan,25-34,Direct,Standard,True
+C000667,Rohan,Roy,customer0667@example.com,2024-09-01,Lucknow,Uttar Pradesh,18-24,Email,Standard,True
+C000668,Tara,Verma,customer0668@example.com,2025-11-30,Ahmedabad,Gujarat,55+,Organic Search,Standard,True
+C000669,Ananya,Nair,customer0669@example.com,2024-04-23,Chennai,Tamil Nadu,18-24,Organic Search,Gold,True
+C000670,Ananya,Khan,customer0670@example.com,2024-07-25,Bengaluru,Karnataka,25-34,Organic Search,Standard,False
+C000671,Dev,Joshi,customer0671@example.com,2025-05-16,Jamshedpur,Jharkhand,55+,Paid Search,Standard,True
+C000672,Aditya,Gupta,customer0672@example.com,2024-01-14,Mumbai,Maharashtra,45-54,Direct,Silver,True
+C000673,Kavya,Nair,customer0673@example.com,2024-03-03,Jamshedpur,Jharkhand,45-54,Direct,Silver,True
+C000674,Dev,Sharma,customer0674@example.com,2024-09-29,Lucknow,Uttar Pradesh,18-24,Direct,Standard,True
+C000675,Ananya,Roy,customer0675@example.com,2024-04-09,Ahmedabad,Gujarat,25-34,Paid Social,Standard,True
+C000676,Meera,Nair,customer0676@example.com,2025-08-06,Hyderabad,Telangana,55+,Paid Social,Standard,True
+C000677,Reyansh,Roy,customer0677@example.com,2025-11-21,Chennai,Tamil Nadu,45-54,Direct,Standard,True
+C000678,Rohan,Gupta,customer0678@example.com,2025-05-31,Kolkata,West Bengal,25-34,Paid Social,Standard,False
+C000679,Rohan,Pillai,customer0679@example.com,2025-07-17,Chennai,Tamil Nadu,35-44,Paid Social,Silver,False
+C000680,Saanvi,Joshi,customer0680@example.com,2025-09-15,Chennai,Tamil Nadu,55+,Organic Search,Silver,False
+C000681,Reyansh,Khan,customer0681@example.com,2025-01-03,Pune,Maharashtra,45-54,Organic Search,Standard,True
+C000682,Vivaan,Bose,customer0682@example.com,2025-06-14,Bengaluru,Karnataka,35-44,Organic Search,Platinum,True
+C000683,Kabir,Bose,customer0683@example.com,2024-01-23,Chennai,Tamil Nadu,55+,Paid Social,Standard,True
+C000684,Reyansh,Das,customer0684@example.com,2024-02-08,Mumbai,Maharashtra,25-34,Organic Search,Standard,True
+C000685,Aditi,Patel,customer0685@example.com,2024-09-19,Hyderabad,Telangana,55+,Paid Search,Gold,False
+C000686,Tara,Reddy,customer0686@example.com,2024-11-28,Kochi,Kerala,45-54,Direct,Silver,True
+C000687,Aditi,Sharma,customer0687@example.com,2025-09-01,Mumbai,Maharashtra,55+,Paid Search,Silver,False
+C000688,Nisha,Mehta,customer0688@example.com,2024-12-22,Chennai,Tamil Nadu,18-24,Direct,Standard,True
+C000689,Aarav,Gupta,customer0689@example.com,2026-08-08,Lucknow,Uttar Pradesh,45-54,Organic Search,Standard,True
+C000690,Rohan,Nair,customer0690@example.com,2024-06-02,Lucknow,Uttar Pradesh,25-34,Organic Search,Silver,False
+C000691,Ira,Joshi,customer0691@example.com,2026-02-09,Jaipur,Rajasthan,55+,Organic Search,Standard,False
+C000692,Rohan,Patel,customer0692@example.com,2024-05-15,Delhi,Delhi,45-54,Paid Social,Standard,True
+C000693,Dev,Mehta,customer0693@example.com,2025-02-12,Mumbai,Maharashtra,25-34,Affiliate,Standard,True
+C000694,Samar,Iyer,customer0694@example.com,2025-10-29,Kolkata,West Bengal,55+,Paid Social,Silver,True
+C000695,Nisha,Das,customer0695@example.com,2024-09-29,Mumbai,Maharashtra,55+,Organic Search,Silver,True
+C000696,Rohan,Das,customer0696@example.com,2024-07-14,Chennai,Tamil Nadu,55+,Email,Silver,True
+C000697,Reyansh,Joshi,customer0697@example.com,2025-09-23,Chennai,Tamil Nadu,25-34,Paid Social,Gold,True
+C000698,Vivaan,Verma,customer0698@example.com,2025-01-17,Jamshedpur,Jharkhand,18-24,Organic Search,Standard,False
+C000699,Aditi,Sharma,customer0699@example.com,2026-06-08,Delhi,Delhi,35-44,Email,Standard,True
+C000700,Aditya,Roy,customer0700@example.com,2024-12-05,Bengaluru,Karnataka,55+,Organic Search,Standard,False

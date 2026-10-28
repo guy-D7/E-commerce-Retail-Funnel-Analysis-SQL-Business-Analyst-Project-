@@ -1,0 +1,61 @@
+product_id,product_name,category,subcategory,brand,list_price_inr,unit_cost_inr,launch_date,is_active
+P000001,Voltix T-shirts 01,Fashion,T-shirts,GlowTheory,1999,826.39,2024-08-16,True
+P000002,UrbanRoot Jeans 02,Fashion,Jeans,CasaKind,249,145.17,2024-02-02,True
+P000003,Northstar Sneakers 03,Fashion,Sneakers,GlowTheory,399,179.47,2026-01-03,True
+P000004,Threadline Ethnic Wear 04,Fashion,Ethnic Wear,Voltix,1299,657.11,2026-04-08,True
+P000005,CasaKind T-shirts 05,Fashion,T-shirts,PureHarvest,3499,2175.49,2024-10-11,True
+P000006,UrbanRoot Jeans 06,Fashion,Jeans,CasaKind,3499,1682.94,2024-04-09,True
+P000007,Northstar Sneakers 07,Fashion,Sneakers,Threadline,599,336.11,2025-07-03,True
+P000008,Voltix Ethnic Wear 08,Fashion,Ethnic Wear,PureHarvest,799,322.51,2025-08-14,True
+P000009,GlowTheory T-shirts 09,Fashion,T-shirts,Voltix,249,98.04,2024-03-22,True
+P000010,Voltix Jeans 10,Fashion,Jeans,Threadline,4999,2051.09,2025-10-12,True
+P000011,GlowTheory Sneakers 11,Fashion,Sneakers,Voltix,299,146.83,2025-12-19,True
+P000012,DailyNest Ethnic Wear 12,Fashion,Ethnic Wear,GlowTheory,1999,802.44,2024-06-16,True
+P000013,GlowTheory Audio 01,Electronics,Audio,PureHarvest,499,337.75,2026-05-13,True
+P000014,Northstar Accessories 02,Electronics,Accessories,PureHarvest,199,89.29,2025-02-14,True
+P000015,PureHarvest Smart Home 03,Electronics,Smart Home,GlowTheory,399,260.92,2025-11-02,True
+P000016,Voltix Audio 04,Electronics,Audio,DailyNest,1999,1034.79,2024-09-09,True
+P000017,CasaKind Accessories 05,Electronics,Accessories,CasaKind,1299,596.01,2025-01-05,True
+P000018,UrbanRoot Smart Home 06,Electronics,Smart Home,Northstar,299,159.32,2026-05-31,True
+P000019,CasaKind Audio 07,Electronics,Audio,UrbanRoot,1999,855.56,2025-01-29,True
+P000020,Northstar Accessories 08,Electronics,Accessories,UrbanRoot,999,538.2,2025-11-29,True
+P000021,PureHarvest Smart Home 09,Electronics,Smart Home,UrbanRoot,3499,1609.71,2024-10-27,True
+P000022,Voltix Audio 10,Electronics,Audio,DailyNest,999,380.59,2025-06-03,True
+P000023,GlowTheory Accessories 11,Electronics,Accessories,DailyNest,4999,2837.38,2025-01-17,True
+P000024,Northstar Smart Home 12,Electronics,Smart Home,PureHarvest,1299,865.2,2025-05-15,True
+P000025,Voltix Cookware 01,Home & Kitchen,Cookware,GlowTheory,599,385.53,2024-02-29,True
+P000026,UrbanRoot Storage 02,Home & Kitchen,Storage,Threadline,1599,1061.87,2026-04-15,True
+P000027,DailyNest Decor 03,Home & Kitchen,Decor,DailyNest,3499,1888.8,2025-11-06,True
+P000028,CasaKind Cookware 04,Home & Kitchen,Cookware,GlowTheory,1299,557.97,2025-07-06,True
+P000029,Voltix Storage 05,Home & Kitchen,Storage,CasaKind,2499,1100.42,2025-11-18,True
+P000030,Threadline Decor 06,Home & Kitchen,Decor,UrbanRoot,999,649.23,2024-09-10,True
+P000031,GlowTheory Cookware 07,Home & Kitchen,Cookware,GlowTheory,599,231.4,2024-01-08,True
+P000032,UrbanRoot Storage 08,Home & Kitchen,Storage,Northstar,1999,794.93,2026-05-30,True
+P000033,Threadline Decor 09,Home & Kitchen,Decor,GlowTheory,1299,586.37,2025-07-06,True
+P000034,GlowTheory Cookware 10,Home & Kitchen,Cookware,Threadline,1599,884.03,2026-04-06,True
+P000035,CasaKind Storage 11,Home & Kitchen,Storage,PureHarvest,249,101.86,2025-03-09,True
+P000036,UrbanRoot Decor 12,Home & Kitchen,Decor,Northstar,4999,2993.02,2025-02-16,True
+P000037,GlowTheory Skincare 01,Beauty,Skincare,GlowTheory,3499,2234.12,2024-07-13,True
+P000038,Voltix Haircare 02,Beauty,Haircare,Threadline,299,151.46,2024-09-12,True
+P000039,UrbanRoot Makeup 03,Beauty,Makeup,Northstar,249,127.72,2025-10-29,False
+P000040,UrbanRoot Skincare 04,Beauty,Skincare,GlowTheory,4999,1921.75,2024-06-19,True
+P000041,CasaKind Haircare 05,Beauty,Haircare,Northstar,999,443.68,2024-06-17,True
+P000042,Threadline Makeup 06,Beauty,Makeup,Voltix,799,367.19,2025-03-09,True
+P000043,Threadline Skincare 07,Beauty,Skincare,DailyNest,2499,1695.89,2024-07-13,True
+P000044,Northstar Haircare 08,Beauty,Haircare,PureHarvest,199,110.2,2024-02-28,True
+P000045,DailyNest Makeup 09,Beauty,Makeup,Northstar,999,530.32,2025-06-04,True
+P000046,UrbanRoot Skincare 10,Beauty,Skincare,GlowTheory,299,119.77,2025-02-17,True
+P000047,Northstar Haircare 11,Beauty,Haircare,UrbanRoot,1599,725.73,2025-03-05,True
+P000048,Voltix Makeup 12,Beauty,Makeup,GlowTheory,1599,858.4,2025-11-16,True
+P000049,DailyNest Packaged Foods 01,Grocery,Packaged Foods,Voltix,399,183.41,2025-04-13,True
+P000050,Northstar Beverages 02,Grocery,Beverages,Threadline,3499,2311.86,2025-09-28,False
+P000051,GlowTheory Household Essentials 03,Grocery,Household Essentials,Voltix,249,100.09,2024-05-15,True
+P000052,PureHarvest Packaged Foods 04,Grocery,Packaged Foods,Voltix,249,160.3,2024-06-10,True
+P000053,Northstar Beverages 05,Grocery,Beverages,Voltix,1299,767.79,2025-11-10,True
+P000054,UrbanRoot Household Essentials 06,Grocery,Household Essentials,DailyNest,299,137.34,2024-10-05,True
+P000055,GlowTheory Packaged Foods 07,Grocery,Packaged Foods,Voltix,399,237.52,2025-06-01,True
+P000056,CasaKind Beverages 08,Grocery,Beverages,Voltix,4999,1975.8,2024-02-15,True
+P000057,Voltix Household Essentials 09,Grocery,Household Essentials,DailyNest,3499,1466.94,2026-01-29,True
+P000058,Northstar Packaged Foods 10,Grocery,Packaged Foods,UrbanRoot,2499,1270.26,2024-03-18,False
+P000059,Northstar Beverages 11,Grocery,Beverages,PureHarvest,2499,1627.3,2025-08-19,True
+P000060,Voltix Household Essentials 12,Grocery,Household Essentials,PureHarvest,799,334.17,2026-07-09,True

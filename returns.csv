@@ -1,0 +1,16 @@
+return_id,order_id,return_requested_date,return_reason,return_status,refund_amount_inr,return_channel
+R000001,O000001,2026-08-20,Late delivery,rejected,2224.56,Customer Support
+R000002,O000029,2025-10-28,Changed mind,under_review,642.74,Website
+R000003,O000030,2026-09-22,Size/fit issue,approved,1610.58,App
+R000004,O000033,2026-10-06,Changed mind,rejected,222.63,Website
+R000005,O000035,2025-10-22,Wrong item,refunded,268.7,Customer Support
+R000006,O000050,2026-08-04,Wrong item,approved,11375.17,App
+R000007,O000087,2025-11-07,Damaged item,rejected,3651.49,Customer Support
+R000008,O000094,2025-10-06,Size/fit issue,approved,1000.54,App
+R000009,O000141,2026-03-05,Wrong item,approved,3926.04,Website
+R000010,O000158,2026-04-12,Size/fit issue,rejected,1645.35,Customer Support
+R000011,O000164,2026-07-27,Size/fit issue,refunded,2832.25,Website
+R000012,O000166,2026-05-12,Late delivery,under_review,1866.58,Customer Support
+R000013,O000171,2026-09-01,Late delivery,approved,278.79,Customer Support
+R000014,O000172,2026-07-26,Not as described,refunded,7526.79,Website
+R000015,O000195,2026-09-19,Size/fit issue,rejected,5009.08,Customer Support

@@ -1,0 +1,12 @@
+table_name,column_name,suggested_postgres_type,notes
+customers,customer_id,VARCHAR,Primary key
+products,product_id,VARCHAR,Primary key
+sessions,session_id,VARCHAR,Primary key; one web/app session
+funnel_events,event_id,VARCHAR,Primary key; one event row
+orders,order_id,VARCHAR,Primary key; one order header
+order_items,order_item_id,VARCHAR,Primary key; one order line
+payments,payment_id,VARCHAR,Primary key; one payment record
+returns,return_id,VARCHAR,Primary key; one return request
+campaigns,campaign_id,VARCHAR,Primary key
+marketing_spend_daily,spend_date,DATE,Composite key candidate with campaign_id; daily campaign performance
+inventory_snapshots,inventory_snapshot_id,VARCHAR,Primary key; periodic product/warehouse snapshot
